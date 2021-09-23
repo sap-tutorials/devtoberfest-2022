@@ -1,6 +1,6 @@
 ---
-title: Devtoberfest - Scavenger Hunt - Kyma
-description: Confirm your attendance at the Fun Friday event.
+title: Devtoberfest is Dogtoberfest!
+description: Confirm you uploaded a picture of your dog to social media for Dogtoberfest.
 auto_validation: true
 time: 1
 tags: [ tutorial>beginner, topic>cloud]
@@ -13,7 +13,7 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 ---
 
-[ACCORDION-BEGIN [Step 1: ](Confirm your attendance)]
+[ACCORDION-BEGIN [Step 1: ](Confirm your post)]
 
 
 

@@ -1,13 +1,13 @@
 ---
 title: Devtoberfest - Week 1 - Speaker
-description: Confirm your attendance at the Fun Friday event.
+description: Confirm your attendance at the speaker event in week 1.
 auto_validation: true
 time: 1
 tags: [ tutorial>beginner, topic>cloud]
 primary_tag: topic>cloud
 ---
 
-![Link text e.g., Destination screen](Devtoberfest.jpg)
+![Devtoberfest](Devtoberfest.jpg)
 
 This tutorial is part of the Devtoberfest 2021, a celebration of and for Developers. For more information, see [Devtoberfest 2021 on GitHub](https://github.com/SAP-samples/devtoberfest-2021).
 

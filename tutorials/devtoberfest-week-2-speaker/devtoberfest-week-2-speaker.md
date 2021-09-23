@@ -1,6 +1,6 @@
 ---
-title: Devtoberfest - Scavenger Hunt - Kyma
-description: Confirm your attendance at the Fun Friday event.
+title: Devtoberfest - Week 2 - Speaker
+description: Confirm your attendance at the speaker event in week 2.
 auto_validation: true
 time: 1
 tags: [ tutorial>beginner, topic>cloud]
