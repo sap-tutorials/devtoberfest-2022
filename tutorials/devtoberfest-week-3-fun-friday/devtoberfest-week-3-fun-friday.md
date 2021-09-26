@@ -1,6 +1,6 @@
 ---
-title: Devtoberfest - Week 2 - Fun Friday
-description: Confirm your attendance at the Fun Friday event in week 2.
+title: Devtoberfest - Week 3 - Fun Friday
+description: Confirm your attendance at the Fun Friday event in week 3.
 auto_validation: true
 time: 1
 tags: [ tutorial>beginner, topic>cloud]
