@@ -3,7 +3,7 @@ title: Devtoberfest - Week 3 - Speaker
 description: Confirm your attendance at the speaker event in week 3.
 auto_validation: true
 time: 1
-tags: [ tutorial>beginner, topic>cloud]
+tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Devtoberfest - Week 3 - Use Kyma Extension
-description: Confirm the you created a Kyma extension in week 3.
+title: Devtoberfest - Week 4 - Fun Friday
+description: Confirm your attendance at the Fun Friday event in week 4.
 auto_validation: true
 time: 1
-tags: [ tutorial>beginner, topic>cloud ]
+tags: [ tutorial>beginner, topic>cloud]
 primary_tag: topic>cloud
 ---
 
