@@ -3,7 +3,7 @@ title: Devtoberfest - Week 3 - Fun Friday
 description: Confirm your attendance at the Fun Friday event in week 3.
 auto_validation: true
 time: 1
-tags: [ tutorial>beginner, topic>cloud ] 
+tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 ---
 
@@ -17,7 +17,11 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 
 
+[ACCORDION-END]
+[ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
+
+
+
 [VALIDATE_1]
 [ACCORDION-END]
-
 ---
