@@ -15,12 +15,7 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 [ACCORDION-BEGIN [Step 1: ](Confirm your attendance)]
 
-
-
-[ACCORDION-END]
-[ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
-
-
+Confirm your attendance at the Best Practices Fun Friday event in Week 2 by answering the following question.
 
 [VALIDATE_1]
 [ACCORDION-END]
