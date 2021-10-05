@@ -3,7 +3,7 @@ title: Devtoberfest - Week 1 - Speaker
 description: Confirm your attendance at the speaker event in week 1.
 auto_validation: true
 time: 1
-tags: [ tutorial>beginner, topic>cloud]
+tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 ---
 
@@ -22,7 +22,6 @@ Watch "Devtoberfest Launch Party" live or recording: </br>
 For more information see the [session's details](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week1_Welcome#juergen-mueller-and-thomas-grassl-devtoberfest-launch-party).
 
 [ACCORDION-END]
-
 [ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
 
 
