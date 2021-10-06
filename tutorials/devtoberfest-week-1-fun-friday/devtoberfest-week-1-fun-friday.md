@@ -21,7 +21,7 @@ Watch "A Virtual Tour of the “Revolution” Exhibition at the Computer History
 
 For more information see the [session's details](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week1_Welcome#a-virtual-tour-of-the-revolution-exhibition-at-the-computer-history-museum-by-dag-spicer-senior-curator).
 
-
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
