@@ -21,6 +21,7 @@ Watch "Devtoberfest Launch Party" live or recording: </br>
 
 For more information see the [session's details](https://github.com/SAP-samples/devtoberfest-2021/tree/main/topics/Week1_Welcome#juergen-mueller-and-thomas-grassl-devtoberfest-launch-party).
 
+[DONE]
 [ACCORDION-END]
 [ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
 
