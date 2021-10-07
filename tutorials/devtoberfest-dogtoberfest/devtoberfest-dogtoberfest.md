@@ -13,7 +13,7 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 ---
 
-[ACCORDION-BEGIN [Step 1: ](Confirm your post)]
+[ACCORDION-BEGIN [Step 1: ](Paste your link here)]
 
 
 
