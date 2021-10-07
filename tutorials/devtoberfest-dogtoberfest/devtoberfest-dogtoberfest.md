@@ -1,6 +1,6 @@
 ---
 title: Devtoberfest is Dogtoberfest!
-description: Confirm you uploaded a picture of your dog to social media for Dogtoberfest.
+description: Confirm you uploaded a picture of your dog (pet) to social media for Dogtoberfest.
 auto_validation: true
 time: 1
 tags: [ tutorial>beginner, topic>cloud ]
