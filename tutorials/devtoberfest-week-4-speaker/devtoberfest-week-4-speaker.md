@@ -15,13 +15,7 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 [ACCORDION-BEGIN [Step 1: ](Confirm your attendance)]
 
-
-
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
-
-
+Confirm your attendance at the Security presentations in Week 4 by answering the following question.
 
 [VALIDATE_1]
 [ACCORDION-END]
