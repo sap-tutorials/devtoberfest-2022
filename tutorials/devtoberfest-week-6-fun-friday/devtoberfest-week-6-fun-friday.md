@@ -21,9 +21,8 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 [ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
 
+The validation question will be posted here before the session, so that you can confirm your participation and get Devtoberfest points!
 
-
-[VALIDATE_1]
 [ACCORDION-END]
 
 ---
