@@ -21,6 +21,7 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 [ACCORDION-BEGIN [Step 2: ](Confirm help step)
 
+
 [VALIDATE_1]
 [ACCORDION-END]
 
