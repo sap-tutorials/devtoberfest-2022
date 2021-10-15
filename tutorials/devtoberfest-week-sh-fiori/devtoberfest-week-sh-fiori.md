@@ -14,7 +14,7 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 ---
 
 [ACCORDION-BEGIN [Step 1: ](Follow the help documentation)]
-
+[Create an SAP Fiori Project Help documentation](https://help.sap.com/viewer/584e0bcbfd4a4aff91c815cefa0bce2d/Cloud/en-US/46664de4d6944471b6c29a0681bfd0fc.html)
 
 
 [DONE]
