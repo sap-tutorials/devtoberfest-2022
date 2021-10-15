@@ -16,10 +16,11 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 [ACCORDION-BEGIN [Step 1: ](Follow the help documentation)]
 
 
+
 [DONE]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 2: ](Confirm help step)
+[ACCORDION-BEGIN [Step 2: ](Confirm help step)]
 
 
 [VALIDATE_1]
