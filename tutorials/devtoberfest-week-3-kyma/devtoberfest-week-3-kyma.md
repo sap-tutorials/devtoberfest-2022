@@ -13,8 +13,8 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 ---
 
-[ACCORDION-BEGIN [Step 1: ](Confirm your attendance)]
-
+[ACCORDION-BEGIN [Step 1: ](Follow Help documentation)]
+[Using Kyma with Extensions](https://help.sap.com/viewer/8438f051ded544d2ba1303e67fc5ff86/PROD/en-US/8722f8e5157b4cf9be5f0177906a0351.html)
 
 [DONE]
 [ACCORDION-END]
