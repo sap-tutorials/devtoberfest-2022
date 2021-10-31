@@ -9,7 +9,7 @@ primary_tag: topic>cloud
 
 ![Devtoberfest](Devtoberfest.jpg)
 
-This tutorial is part of the Devtoberfest 2021, a celebration of and for Developers. For more information, see [Devtoberfest 2021 on GitHub](https://github.com/SAP-samples/devtoberfest-2021#readme).
+This web page is part of [Devtoberfest 2021](https://github.com/SAP-samples/devtoberfest-2021#readme), a celebration of and for Developers.
 
 ---
 
@@ -17,7 +17,7 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 In this challenge, you’ll work with data from OpenStreetMap® open data ([© OpenStreetMap contributors](https://www.openstreetmap.org/copyright)) representing buildings on the SAP campus in Walldorf, Germany.
 
-This subset contains all buildings of the campus, incl. offices, parking garages, a restaurant, and even a kindergarten.
+This subset contains all buildings of the campus, incl. offices, parking garages, a restaurant, and even a kindergarten (German word for the "child care").
 
 ![SAP campus in Walldorf](img/cch_w5_002.png)
 
@@ -38,9 +38,9 @@ The step 7 at the bottom of this tutorial will allow you to validate your result
 
 ### SAP HANA database
 
-You can use SAP HANA Cloud, SAP HANA database or SAP HANA 2.0 SPS05.
+You can use [SAP HANA Cloud, SAP HANA database](https://help.sap.com/viewer/product/HANA_CLOUD_DATABASE/latest/en-US) or [SAP HANA 2.0 SPS05](https://help.sap.com/viewer/product/SAP_HANA_PLATFORM/latest) with Spatial option.
 
-Link to get access to free versions of the software if you do not have access to it yet:
+Links to get access to free versions of the software, if you do not have access to it yet:
 
 - [SAP HANA Cloud trial](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html),
 - [SAP HANA, express edition](https://www.sap.com/products/hana/express-trial.html).
@@ -53,7 +53,9 @@ In 2021 Stack Overflow Annual Developer Survey [over half of surveyed profession
 
 ### Database client
 
-You should be able to work with your database instance. Below is a list of typical clients plus links to more information, if you need to make familiarize yourself with the particular tool.
+You should be able to work with your database instance: have an authorized user and be able to run SQL statements.
+
+Below is a list of typical clients (plus links to more information, if you need to familiarize yourself with the particular tool).
 
 - [SAP HANA Client](https://developers.sap.com/tutorials/hana-clients-install.html),
 - [SAP Database Explorer](https://developers.sap.com/group.hana-cloud-get-started.html),
@@ -68,12 +70,12 @@ This challenge is quite a simple calculation task. But it requires basic underst
 
 We covered this topic in [the series of presentations during last year's Devtoberfest](https://www.youtube.com/playlist?list=PL6RpkC85SLQA8za7iX9FRzewU7Vs022dl).  
 
-To quickly get the minimum required understanding of geospatial SQL in SAP HANA, you can review these tutorials:
+To quickly get the minimum required understanding of geospatial SQL in SAP HANA, you can go through these tutorials:
 
 1. [Introduction to SAP HANA Spatial Data Types](https://developers.sap.com/group.hana-aa-spatial-get-started.html)
 2. [Introduction to SAP HANA Spatial Methods](https://developers.sap.com/group.hana-aa-spatial-methods.html)
 
-You can find some more content in the last step of this document, if you want to learn more.
+Should you want to learn more, then additional content is available in the last step of this document.
 
 [DONE]
 [ACCORDION-END]
@@ -177,7 +179,7 @@ In this step, use provided SQL statements to create:
 
 [ACCORDION-BEGIN [Step 4: ](Load the data)]
 
-Use the following statements to insert 30 records -- each representing a building of the campus.
+Use the following statements to insert 30 records -- each representing a building at the campus.
 
 ```SQL
 --SET SCHEMA OSM;
@@ -275,12 +277,12 @@ AS SELECT
 FROM "PLANET_OSM_POLYGON";
 ```
 
-You should notice a conversion of the [WKT representation](https://developers.sap.com/tutorials/hana-spatial-intro1-point.html#dab57b01-4d6f-4864-ac64-5c51062dcf9f) of the string column `"PLANET_OSM_POLYGON"."way"` into the spatial column `"shape_3857"` with [spatial reference](https://developers.sap.com/tutorials/hana-spatial-intro6-srs.html#3a8a7335-1123-4bf8-a1cc-ef89e568b017) id **3857**.
+You should notice a conversion of the [WKT representation](https://developers.sap.com/tutorials/hana-spatial-intro1-point.html#dab57b01-4d6f-4864-ac64-5c51062dcf9f) of the string column `"PLANET_OSM_POLYGON"."way"` in the table into the spatial column `"SAP_WDF_CAMPUS"."shape_3857"` in the view with [spatial reference](https://developers.sap.com/tutorials/hana-spatial-intro6-srs.html#3a8a7335-1123-4bf8-a1cc-ef89e568b017) id **3857**.
 
 > ### Pseudo-Mercator projection
 > **[EPSG:3857](https://epsg.io/3857)**, or Pseudo-Mercator, is a projected coordinate system used for rendering web maps in OpenStreetMap, Google Maps, etc.
 
-Preview the content of the created view, e.g. with the following SQL query.
+Preview the content of the created view, e.g. using the following SQL query.
 
 ```SQL
 -- SET SCHEMA "OSM";
@@ -290,10 +292,10 @@ SELECT * FROM "SAP_WDF_CAMPUS";
 
 ![Preview in DBX](img/cch_w5_020.png)
 
-You can see values from `osm_id` match [OSM elements](https://wiki.openstreetmap.org/wiki/Elements):
+You can see values from `osm_id` match [OpenStreetMap elements](https://wiki.openstreetmap.org/wiki/Elements):
 
-- Positive numbers are ___ways___, representing a spatial polygon without interior rings, like SAP Guesthouse Kalipeh hotel: https://www.openstreetmap.org/way/93862074,
-- Negative numbers are ___relations___, representing a spatial polygon with at least one interior ring, like SAP Headquarter: https://www.openstreetmap.org/relation/1949536
+- Positive numbers are OSM ___ways___, representing a spatial polygon without interior rings, like `93862074` is SAP Guesthouse Kalipeh hotel: https://www.openstreetmap.org/way/93862074,
+- Negative numbers are OSM ___relations___, representing a spatial polygon with at least one interior ring, like `-1949536` is the SAP Headquarter: https://www.openstreetmap.org/relation/1949536
 
 [DONE]
 [ACCORDION-END]
@@ -308,15 +310,18 @@ Below are screenshots with previews of data from the `"SAP_WDF_CAMPUS"` view usi
 
 ![Preview spatial cells in DBeaver](img/cch_w5_050.png)
 
-> ### You can find more [examples using DBeaver with SAP HANA on SAP Community blog](https://community.sap.com/search/?ct=blog&q=dbeaver).
+> ### More examples using DBeaver with SAP HANA
+> You can find more [examples on SAP Community blog](https://community.sap.com/search/?ct=blog&q=dbeaver).
 
 You should be ready to solve this challenge now!
 
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 6: ](Calculate distances and validate your answers)]
 
-Now use this data from the view `"SAP_WDF_CAMPUS"` to approach the **challenge to calculate**:
+Now use this data from the view `"SAP_WDF_CAMPUS"` to solve the **challenge by calculating**:
 
 1. what are the two buildings, which centroids are the furthest from each other,
 2. what is the distance in meters (on the Round Earth) between centroids of those two buildings from point 1.
@@ -343,6 +348,7 @@ Now use this data from the view `"SAP_WDF_CAMPUS"` to approach the **challenge t
 
 Many examples of using particular geospatial capabilities of SAP HANA SQL in a fun and educational ways are available as [Geospatial Tuesdays](https://blogs.sap.com/tag/geospatial-tuesday/) posts.
 
+[DONE]
 [ACCORDION-END]
 
 ---
