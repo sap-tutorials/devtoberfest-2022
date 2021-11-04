@@ -13,15 +13,10 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 ---
 
-[ACCORDION-BEGIN [Step 1: ](Participate in Devtoberfest Gaming Night)]
+[ACCORDION-BEGIN [Step 1: ](Confirm your attendance)]
 
 Join us for a fun filled night of computer gaming with your SAP Community peers. We will organize game groups and have game chat available via a Discord server. For more details:
 [Devtoberfest Gaming Night](https://github.com/SAP-samples/devtoberfest-2021/blob/main/topics/Gaming_Night.md)
-
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [Step 2: ](Confirm your attendance)]
-
 
 
 [VALIDATE_1]
