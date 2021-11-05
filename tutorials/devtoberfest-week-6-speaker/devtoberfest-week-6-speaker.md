@@ -14,13 +14,12 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 ---
 
 [ACCORDION-BEGIN [Step 1: ](Confirm your attendance)]
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zHkZ3cpW4OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Or
+Watch the session here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oG-cPC5binc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eo5kYkiTvrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For more information see the [session's details](https://github.com/SAP-samples/devtoberfest-2021/blob/main/topics/Week6_Frontend/README.md#fun-friday-activities).
+For more information see the [session's details](https://github.com/SAP-samples/devtoberfest-2021/blob/main/topics/Week6_Frontend/README.md#how-to-make-state-management-work-for-you-with-redux-and-redux-toolkit).
 
 
 [DONE]
