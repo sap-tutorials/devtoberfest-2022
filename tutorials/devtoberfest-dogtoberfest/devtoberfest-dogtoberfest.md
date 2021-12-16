@@ -17,7 +17,6 @@ This tutorial is part of the Devtoberfest 2021, a celebration of and for Develop
 
 
 
-
 [VALIDATE_1]
 [ACCORDION-END]
 
