@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 ---
 
-![Devtoberfest](devtoberfest.jpg)
+![Devtoberfest](Devtoberfest.jpg)
 
 &nbsp;
 
