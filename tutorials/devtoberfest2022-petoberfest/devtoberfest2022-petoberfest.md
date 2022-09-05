@@ -7,7 +7,9 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 ---
 
-![Devtoberfest](Dogtoberfest.jpg)
+![Devtoberfest](devtoberfest.jpg)
+
+&nbsp;
 
 This tutorial is part of the Devtoberfest 2022, a celebration of, for, and by Developers. For more information, see and join the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest) in the SAP Community.
 
