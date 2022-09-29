@@ -2,8 +2,8 @@
 time: 1
 author_name: Thomas Jung
 author_profile: https://github.com/jung-thomas
-tags: [ tutorial>beginner, topic>abap ]
-primary_tag: topic>abap
+tags: [ tutorial>beginner, topic>abap-development ]
+primary_tag: topic>abap-development
 parser: v2
 ---
 
