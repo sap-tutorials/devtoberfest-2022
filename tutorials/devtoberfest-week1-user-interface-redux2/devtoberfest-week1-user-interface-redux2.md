@@ -9,7 +9,7 @@ primary_tag: software-product>sap-fiori
 
 ## Prerequisites
 
- - Attend live or watch a recording of [How to simplify your data fetching life with RTK Query](https://groups.community.sap.com/t5/devtoberfest/how-to-simplify-your-data-fetching-life-with-rtk-query/ec-p/9011#M41)
+- Attend live or watch a recording of [How to simplify your data fetching life with RTK Query](https://groups.community.sap.com/t5/devtoberfest/how-to-simplify-your-data-fetching-life-with-rtk-query/ec-p/9011#M41)
 
 ## Details
 

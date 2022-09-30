@@ -9,7 +9,7 @@ primary_tag: software-product>sap-fiori
 
 ## Prerequisites
 
- - Attend live or watch a recording of [How to Make State Management Work for You with Redux and Redux Toolkit](https://groups.community.sap.com/t5/devtoberfest/how-to-make-state-management-work-for-you-with-redux-and-redux/ec-p/9453#M56)
+- Attend live or watch a recording of [How to Make State Management Work for You with Redux and Redux Toolkit](https://groups.community.sap.com/t5/devtoberfest/how-to-make-state-management-work-for-you-with-redux-and-redux/ec-p/9453#M56)
 
 ## Details
 
