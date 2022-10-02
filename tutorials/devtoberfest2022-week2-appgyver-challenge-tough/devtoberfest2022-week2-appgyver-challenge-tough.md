@@ -11,6 +11,9 @@ parser: v2
 # 🔴 Devtoberfest - SAP AppGyver Challenge - Tough
 <!-- description --> In the second week of Devtoberfest, the low-code, no-code track is focused on SAP AppGyver. Here's a little tougher quiz so you earn extra points toward the Devtoberfest grand prize.
 
+## You will learn
+- A lot of technology during Devtoberfest
+
 ## Intro
 ![Devtoberfest](Devtoberfest.jpg)
 

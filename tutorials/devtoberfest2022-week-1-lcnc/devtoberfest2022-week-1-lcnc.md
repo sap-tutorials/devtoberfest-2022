@@ -10,6 +10,9 @@ parser: v2
 # 🔴 Devtoberfest 2022 Week 1 - Low Code No Code - Session Review
 <!-- description -->In the first week of Devtoberfest, on the Low Code No Code day (Thursday), you watched sessions about why low-code and no-code is all the rage, plus cool features of SAP Business Application Studio that speed up development. Show that you were listening, and earn extra points toward the grand prize.
 
+## You will learn
+- A lot of technology during Devtoberfest
+
 ## Intro
 ![Devtoberfest](Devtoberfest.jpg)
 

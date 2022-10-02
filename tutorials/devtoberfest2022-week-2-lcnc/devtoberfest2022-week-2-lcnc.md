@@ -11,6 +11,9 @@ parser: v2
 # 🔴 Devtoberfest 2022 Week 2 - Low Code No Code - Session Review
 <!-- description --> In the second week of Devtoberfest, on the Low Code No Code day (Thursday), you watched sessions about how to get started with SAP AppGyver, what's happening with SAP AppGyver and SAP BTP together, how to make your apps beautiful, and 7 tips from SAP AppGyver guru Onno Bos. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
 
+## You will learn
+- A lot of technology during Devtoberfest
+
 ## Intro
 ![Devtoberfest](Devtoberfest.jpg)
 
