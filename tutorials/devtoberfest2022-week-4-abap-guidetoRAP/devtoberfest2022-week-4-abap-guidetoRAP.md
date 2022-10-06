@@ -6,7 +6,7 @@ tags: [ tutorial>beginner, topic>abap-development ]
 primary_tag: topic>abap-development
 parser: v2
 ---
-
+ 
 # 🟢 A Beginner's Guide to the ABAP RESTful Application Programming Model
 
 <!-- description --> In the fourth week of Devtoberfest, on the ABAP day (Monday), you attended a session with Andre Fischer where you learned how to use proven and new technologies, such as CDS and behavior definition and implementation languages, to build SAP Fiori apps and OData services using the ABAP RESTful Application Programming Model with SAP Business Technology Platform, ABAP environment and on-premise SAP S/4HANA.
@@ -25,4 +25,6 @@ parser: v2
 
 This tutorial is part of the Devtoberfest 2022, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
 
->### Question to follow after live session 
+### Question 1
+
+Answer the following question to earn points towards the Devtoberfest grand prize

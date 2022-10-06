@@ -6,7 +6,7 @@ tags: [ tutorial>beginner, topic>abap-development ]
 primary_tag: topic>abap-development
 parser: v2
 ---
-
+ 
 # 🟢 Troubleshoot RAP-based Fiori Apps in the ABAP Development Tools
 
 <!-- description --> In the third week of Devtoberfest, on the ABAP day (Monday), you watched a session with Ingo Braeuninger, where he shared the rich features of the ABAP troubleshooting tools in Eclipse. Show that you were listening, and earn extra points toward the grand prize.
