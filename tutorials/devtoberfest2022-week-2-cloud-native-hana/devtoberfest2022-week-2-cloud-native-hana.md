@@ -11,11 +11,10 @@ parser: v2
 
 <!-- description --> In the second week of Devtoberfest, on the Cloud Native day (Friday), you watched a live session with Thomas Jung about to configure a connection to HANA Cloud on the Kyma runtime and deploy SAP Cloud Application Programming Model applications that use HANA Cloud on Kyma
 
-
 ## You will learn
 
-- What is Exercism?
-- Get a walk through of the exercises
+- Configuration steps to connect to SAP HANA Cloud from Kyma
+- How to deploy CAP applications to Kyma runtime
 
 ## Prerequisites
 
