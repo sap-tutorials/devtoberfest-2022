@@ -9,7 +9,8 @@ parser: v2
 
 # 🟢 Exercism Demo & Presentation with Lars Hvam Petersen
 
-<!-- description --> Ever heard of Exercism? Exercism is an online, open-source, free coding platform that offers code practice and mentorship on 50+ different programming languages. And now ABAP is available too! Join this session to learn about how this new track came about and get a walk through of the exercises. 
+<!-- description --> In the second week of Devtoberfest, on the ABAP day (Monday), you watched a live session with Lars Hvam Petersen about ABAP on Exercism and learned about how this new track came about and get a walk through of the exercises.
+
 
 ## You will learn
 
@@ -26,4 +27,6 @@ parser: v2
 
 This tutorial is part of the Devtoberfest 2022, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
 
->### Question to follow after live session 
+### Question 1
+
+Answer the following question to earn points towards the Devtoberfest grand prize
