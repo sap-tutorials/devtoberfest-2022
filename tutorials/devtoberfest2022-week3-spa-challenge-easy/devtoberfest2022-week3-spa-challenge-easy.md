@@ -8,7 +8,7 @@ author_profile: https://github.com/thecodester
 parser: v2
 ---
 
-# 🔴 Devtoberfest - SAP Process Automation - Easy
+# 🔴 Devtoberfest - SAP Process Automation Challenge - Easy
 <!-- description --> In the third week of Devtoberfest, the low-code, no-code track is focused on SAP Process Automation. Here's an easy quiz so you earn extra points toward the Devtoberfest grand prize.
 
 ## You will learn
