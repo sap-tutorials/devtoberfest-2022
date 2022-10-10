@@ -27,3 +27,6 @@ parser: v2
 
 This tutorial is part of the Devtoberfest 2022, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
 
+### Question 1
+
+Answer the following question to earn points towards the Devtoberfest grand prize
