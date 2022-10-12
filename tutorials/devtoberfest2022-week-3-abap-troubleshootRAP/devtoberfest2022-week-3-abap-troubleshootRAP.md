@@ -14,7 +14,7 @@ parser: v2
 
 ## You will learn
 
--  ABAP cross trace 
+-  ABAP cross trace  
 -  ABAP debugger
 - CDS analysis tools
 
