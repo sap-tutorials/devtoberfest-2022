@@ -13,6 +13,9 @@ parser: v2
 ## You will learn
 - A lot of technology during Devtoberfest
 
+## Prerequisites
+- Attend live or watch a recordings of the [low-code general and SAP Business Application Studio sessions of Thursday, Oct. 6](https://groups.community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events?filter=labels&depth=0&label_texts=Low-Code%20No-Code&sort_by=occasionStartTime)
+
 ## Intro
 ![Devtoberfest](Devtoberfest.jpg)
 

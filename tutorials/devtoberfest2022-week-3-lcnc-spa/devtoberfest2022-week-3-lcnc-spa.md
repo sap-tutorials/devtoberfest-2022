@@ -13,8 +13,8 @@ parser: v2
 ## You will learn
 - A lot of technology during Devtoberfest
 
-## Prerequisite
-- 
+## Prerequisites
+- Attend live or watch a recordings of the [low-code SAP Process Automation sessions of Thursday, Oct. 20](https://groups.community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events?filter=labels&depth=0&label_texts=Low-Code%20No-Code&sort_by=occasionStartTime)
 
 
 ## Intro
@@ -29,10 +29,10 @@ The next 2 questions relate to Eric Hagen's session: [Get to Know SAP Process Au
 
 
 ### Question 3
-This questions relates to Peter McNulty's session: [Are Your Processes Performing Well? We’ll Show You How to Check](https://groups.community.sap.com/t5/devtoberfest/are-your-processes-performing-well-we-ll-show-you-how-to-check/ec-p/8968#M26).
+This question relates to Peter McNulty's session: [Are Your Processes Performing Well? We’ll Show You How to Check](https://groups.community.sap.com/t5/devtoberfest/are-your-processes-performing-well-we-ll-show-you-how-to-check/ec-p/8968#M26).
 
 
 
 ### Question 4
-The next 2 questions relates to Archana Shukla's 2 session: [Watch SAP Process Automation in Action ](https://groups.community.sap.com/t5/devtoberfest/watch-sap-process-automation-in-action/ec-p/8965#M23) and [Bring Your Process to Life with Forms and Decisions](https://groups.community.sap.com/t5/devtoberfest/bring-your-process-to-life-with-forms-and-decisions/ec-p/8966#M24).
+This question relates to Archana Shukla's 2 session: [Watch SAP Process Automation in Action ](https://groups.community.sap.com/t5/devtoberfest/watch-sap-process-automation-in-action/ec-p/8965#M23) and [Bring Your Process to Life with Forms and Decisions](https://groups.community.sap.com/t5/devtoberfest/bring-your-process-to-life-with-forms-and-decisions/ec-p/8966#M24).
 

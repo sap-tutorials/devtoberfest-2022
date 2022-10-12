@@ -15,7 +15,7 @@ parser: v2
 - A lot of technology during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the [low-code AppGyver sessions of Thursday, Oct. 13](https://groups.community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events)
+- Attend live or watch a recordings of the [low-code AppGyver sessions of Thursday, Oct. 13](https://groups.community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events?filter=labels&depth=0&label_texts=Low-Code%20No-Code&sort_by=occasionStartTime)
 
 
 ## Intro
