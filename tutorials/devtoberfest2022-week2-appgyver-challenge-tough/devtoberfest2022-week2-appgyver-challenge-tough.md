@@ -32,7 +32,7 @@ For this we use the standard **Dropdown field** (Core). Here's some information 
 
 ![Dropdown](dropdown.png)
 
-
+>**NOTE:** Do not use the LOOKUP function, and remove all spaces from your formula before entering it below.
 
 
 ### Question 3
