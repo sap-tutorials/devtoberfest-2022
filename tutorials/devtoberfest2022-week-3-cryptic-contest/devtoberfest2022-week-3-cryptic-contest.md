@@ -11,7 +11,7 @@ parser: v2
 <!-- description -->Cryptic puzzles are all the rage today, so we decided to put one together related to Devtoberfest and SAP.
 
 ## You will learn
-- A lot of technology during Devtoberfest
+- A lot of technology during Devtoberfest 
 
 ## Intro
 ![Devtoberfest](Devtoberfest.jpg)
