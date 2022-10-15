@@ -1,6 +1,6 @@
 ---
 title: Devtoberfest 2022 - User Interface - Testing UI5 Apps with wdi5 - Zero to Hero to Continuous Integration
-description: In the third week for Devtoberfest 2022, on the User Interface day you watched a session about *Testing UI5 Apps with wdi5 - Zero to Hero to Continuous Integration*. Here we test if you have listened carefully, so go ahead and answer the question to earn extra points towards the grand prize.
+description: In the third week of Devtoberfest 2022, on the User Interface day you watched a session about *Testing UI5 Apps with wdi5 - Zero to Hero to Continuous Integration*. Here we test if you have listened carefully, so go ahead and answer the question to earn extra points towards the grand prize.
 auto_validation: true
 time: 60
 tags: [ tutorial>beginner, topic>user-interface, software-product>sap-fiori]
