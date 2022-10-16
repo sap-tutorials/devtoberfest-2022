@@ -27,7 +27,6 @@ All the cryptic answers in our puzzle can be put into this crossword grid.
 
 ### Question 1
 
-
 ### Question 2
 
 
