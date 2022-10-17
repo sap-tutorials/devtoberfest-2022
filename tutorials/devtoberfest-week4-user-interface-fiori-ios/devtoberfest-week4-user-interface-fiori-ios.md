@@ -1,6 +1,6 @@
 ---
 title: Devtoberfest 2022 - User Interface - Build beautiful, native mobile applications with SAP Fiori for iOS
-description: In the fourth week for Devtoberfest 2022, on the User Interface day you watched a session about *Build beautiful, native mobile applications with SAP Fiori for iOS*. Here we test if you have listened carefully, so go ahead and answer the question to earn extra points towards the grand prize.
+description: In the 4th week for Devtoberfest 2022, on the User Interface day you watched a session about *Build beautiful, native mobile applications with SAP Fiori for iOS*. Here we test if you have listened carefully, so go ahead and answer the question to earn extra points towards the grand prize.
 auto_validation: true
 time: 60
 tags: [ tutorial>beginner, topic>user-interface, software-product>sap-fiori]
