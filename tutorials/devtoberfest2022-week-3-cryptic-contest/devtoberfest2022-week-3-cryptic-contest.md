@@ -6,7 +6,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
-
+ 
 # Devtoberfest 2022 Week - Cryptic Crossword
 <!-- description -->Cryptic puzzles are all the rage today, so we decided to put one together related to Devtoberfest and SAP.
 
@@ -27,13 +27,14 @@ All the cryptic answers in our puzzle can be put into this crossword grid.
 
 ### Question 1
 
+
 ### Question 2
 
 
 ### Question 3
 
-
 ### Question 4
+Make sure to enter the 2 words separated by a space.
 
 
 ### Question 5
@@ -48,9 +49,12 @@ All the cryptic answers in our puzzle can be put into this crossword grid.
 
 
 ### Question 9
+Make sure to connect the 2 words with a hyphen, and lower case.
 
 
 ### Question 10
 
 
 ### Question 11
+
+Make sure to enter the 2 words separated by a space, and lower case.
