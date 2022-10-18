@@ -1,6 +1,6 @@
 ---
 title: 🔵 Devtoberfest 2022 - Data && Analytics - Innovate your IT landscape with SAP Data Warehouse Cloud, SAP BW Bridge
-description: In the third week of Devtoberfest, on the Data && Analytics days you watched a session about innovating your IT landscape with SAP Data Warehouse Cloud, SAP BW Bridge. Here we test if you have listened carefully, so go ahead and answer questions to earn extra points towards the grand prize.
+description: In the third week of Devtoberfest, on the Data && Analytics days you watched a session about innovating your IT landscape with SAP Data Warehouse Cloud, SAP BW Bridge. Here we test if you have listened carefully, so go ahead and answer two questions to earn extra points towards the grand prize.
 auto_validation: true
 time: 60
 tags: [ tutorial>beginner, programming-tool>sql ]
