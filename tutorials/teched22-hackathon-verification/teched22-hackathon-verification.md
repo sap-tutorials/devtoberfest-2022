@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 10
+time: 5
 tags: [ tutorial>beginner, topic>cloud, software-product>sap-business-technology-platform]
 primary_tag: topic>cloud
 author_name: Kevin Muessig
