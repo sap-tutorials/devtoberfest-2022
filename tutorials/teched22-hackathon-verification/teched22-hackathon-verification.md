@@ -1,11 +1,9 @@
 ---
-auto_validation: true
-time: 5
-tags: [ tutorial>beginner, topic>cloud, software-product>sap-business-technology-platform]
-primary_tag: topic>cloud
-author_name: Kevin Muessig
-author_profile: https://github.com/kevinmuessig
 parser: v2
+auto_validation: true
+time: 1
+tags: [ tutorial>beginner, topic>cloud ]
+primary_tag: topic>cloud
 ---
 
 # SAP TechEd 2022 - Hackathon Evening
@@ -13,4 +11,6 @@ parser: v2
 
 ---
 
-### Question 1
+### Answer the following question
+
+---
