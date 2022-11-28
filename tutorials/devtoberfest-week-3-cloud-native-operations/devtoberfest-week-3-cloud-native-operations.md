@@ -9,7 +9,7 @@ primary_tag: topic>cloud
 
 ![Devtoberfest](Devtoberfest.jpg)
 
-This tutorial is part of the Devtoberfest 2022, a celebration of and for Developers.  For more information, see [Devtoberfest 2022 on GitHub](https://github.com/SAP-samples/devtoberfest-2022).
+This tutorial is part of the Devtoberfest 2022, a celebration of and for Developers.
 
 ---
 
