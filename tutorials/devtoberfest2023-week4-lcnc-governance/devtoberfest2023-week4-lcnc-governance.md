@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Real Governance for SAP Build](https://youtube.com/live/XfNXjipDSHE).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Real Governance for SAP Build](https://youtube.com/live/XfNXjipDSHE). <iframe width="560" height="315" src="https://www.youtube.com/embed/XfNXjipDSHE" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

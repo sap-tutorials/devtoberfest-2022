@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Will No-Code Work for My Use Case? Run the “Use Case Evaluator”](https://www.youtube.com/watch?v=cq2YAquXrPU).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Will No-Code Work for My Use Case? Run the “Use Case Evaluator”](https://www.youtube.com/watch?v=cq2YAquXrPU). <iframe width="560" height="315" src="https://www.youtube.com/embed/cq2YAquXrPU" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
