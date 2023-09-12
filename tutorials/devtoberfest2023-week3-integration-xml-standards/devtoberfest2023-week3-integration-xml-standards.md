@@ -16,6 +16,7 @@ parser: v2
 
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [🔴 Core XML standards for SAP Cloud Integration developers](https://www.youtube.com/watch?v=AL_TQi0B0Es).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/AL_TQi0B0Es" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

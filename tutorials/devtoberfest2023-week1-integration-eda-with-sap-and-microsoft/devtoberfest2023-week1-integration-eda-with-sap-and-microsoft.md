@@ -9,13 +9,14 @@ parser: v2
 ---
 
 # 🔴 Devtoberfest 2023 - Integration, Week 1 - EDA with SAP and Microsoft
-<!-- description --> We hope you enjoyed the session on Event Driven architecture with SAP and Microsoft. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
+<!-- description --> We hope you enjoyed the session on Event-Driven architecture with SAP and Microsoft. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
  
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [🔴 Event-Driven Architecture:  Bringing SAP and Microsoft closer together in real time](https://youtu.be/_kMVnPnmy2U).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_kMVnPnmy2U" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

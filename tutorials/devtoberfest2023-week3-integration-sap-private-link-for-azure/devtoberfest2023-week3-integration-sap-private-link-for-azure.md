@@ -15,7 +15,8 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc ).
+- Attend live or watch a recording of the Devtoberfest session [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Uo3rEE_tVEc" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

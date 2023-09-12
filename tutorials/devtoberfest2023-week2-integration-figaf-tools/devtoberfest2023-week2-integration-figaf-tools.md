@@ -16,6 +16,7 @@ parser: v2
 
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [🔴 Deliver SAP Integrations faster with Figaf](https://www.youtube.com/watch?v=c6Hn_NQg2Ak).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/c6Hn_NQg2Ak" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

@@ -16,6 +16,7 @@ parser: v2
 
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [🔴 Develop an LLM-Based Application with Graph in SAP Integration Suite](https://youtu.be/9ojljyI943M).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9ojljyI943M" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

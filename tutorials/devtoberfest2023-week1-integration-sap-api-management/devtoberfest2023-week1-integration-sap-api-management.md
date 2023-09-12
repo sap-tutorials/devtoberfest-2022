@@ -16,6 +16,7 @@ parser: v2
 
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [🔴 Integrate SAP API Management with 3rd party Identity Provider(IDP) for SAML/JWT/OAuth based Authentication](https://youtu.be/792SHsUWFB0).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/792SHsUWFB0" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

@@ -16,6 +16,7 @@ parser: v2
 
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [🔴 Successfully plan, prepare and execute your migration to SAP Integration Suite with Figaf](https://www.youtube.com/watch?v=XSdinj1pWO4).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XSdinj1pWO4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

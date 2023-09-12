@@ -16,6 +16,7 @@ parser: v2
 
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [🔴 Increase developer productivity and code quality of custom scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=WBo2zNYCuig).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WBo2zNYCuig" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

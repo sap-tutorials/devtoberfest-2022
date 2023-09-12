@@ -15,7 +15,8 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM ).
+- Attend live or watch a recording of the Devtoberfest session [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/bELEDGLixvM" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
