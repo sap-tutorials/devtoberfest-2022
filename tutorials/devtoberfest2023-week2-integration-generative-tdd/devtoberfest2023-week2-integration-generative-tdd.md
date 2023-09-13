@@ -15,7 +15,8 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🔴 Generative Test Driven Development (gTDD) with ChatGPT for SAP Integration Suite](https://groups.community.sap.com/t5/devtoberfest/generative-test-driven-development-gtdd-with-chatgpt-for-sap/ec-p/279780).
+- Attend live or watch a recording of the Devtoberfest session [🔴 Generative Test Driven Development (gTDD) with ChatGPT for SAP Integration Suite](https://www.youtube.com/watch?v=oVNRs2bJtcA).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/oVNRs2bJtcA" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
