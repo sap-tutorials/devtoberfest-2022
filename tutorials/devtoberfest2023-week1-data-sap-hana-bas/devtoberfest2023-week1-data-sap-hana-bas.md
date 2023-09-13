@@ -22,6 +22,6 @@ This tutorial is part of the Devtoberfest 2023, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see [Devtoberfest 2023 Contest](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357).
 
-&nbsp;
+### Question 1
 
-<b>👉 Questions for this session will be provided after the conclusion of the session.</b>
+### Question 2
