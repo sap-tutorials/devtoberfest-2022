@@ -3,10 +3,8 @@ auto_validation: true
 time: 1
 author_name: Mamikee Kanneh
 author_profile: https://github.com/mamikee
-tags: [ tutorial>beginner, software-product-function>sap-cloud-application-programming-model
- ]
-primary_tag: software-product-function>sap-cloud-application-programming-model
-
+tags: [ tutorial>beginner, topic>cloud ]
+primary_tag: topic>cloud
 parser: v2
 ---
 
