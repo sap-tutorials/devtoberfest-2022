@@ -9,7 +9,7 @@ parser: v2
 ---
 
 # 🟠 Devtoberfest 2023 - Frontend, Week 1 - Using UI5 Web Components with Svelte
-<!-- description --> We hope you enjoyed the session on Using UI5 Web Components with Svelte. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
+<!-- description --> We hope you enjoyed the session on using UI5 Web Components with Svelte. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
 
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
@@ -25,7 +25,7 @@ This tutorial is part of the Devtoberfest 2023, a celebration of and for Develop
 
 &nbsp;
 
-For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357)
+For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357).
 
 &nbsp;
 
