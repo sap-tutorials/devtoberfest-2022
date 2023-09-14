@@ -8,14 +8,14 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2023 - ABAP, Week 1 - Overview
-<!-- description --> We hope you enjoyed the session on an overview of ABAP. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
-  
+# 🟢 Devtoberfest 2023 - CAP, Week 1 - SAP Extensibility 
+<!-- description --> We hope you enjoyed the session on SAP Extensibility. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
+ 
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 Overview of ABAP Cloud](https://www.youtube.com/watch?v=ApZSn_t_WSo). <iframe width="560" height="315" src="https://www.youtube.com/embed/ApZSn_t_WSo" frameborder="0" allowfullscreen></iframe>
+- Attend live or watch a recording of the Devtoberfest session [🟢 Making SAP Extensibility Real with CAP in 60 minutes](https://www.youtube.com/watch?v=zoJ7umKZKB4). <iframe width="560" height="315" src="https://www.youtube.com/embed/zoJ7umKZKB4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

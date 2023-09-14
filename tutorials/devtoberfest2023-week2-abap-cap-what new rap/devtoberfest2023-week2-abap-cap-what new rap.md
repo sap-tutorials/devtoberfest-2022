@@ -8,14 +8,14 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2023 - ABAP, Week 1 - Overview
-<!-- description --> We hope you enjoyed the session on an overview of ABAP. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
-  
+# 🟢 Devtoberfest 2023 - ABAP, Week 2 - What’s New in RAP? 
+<!-- description --> We hope you enjoyed the session on the recently delivered RAP features. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
+ 
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 Overview of ABAP Cloud](https://www.youtube.com/watch?v=ApZSn_t_WSo). <iframe width="560" height="315" src="https://www.youtube.com/embed/ApZSn_t_WSo" frameborder="0" allowfullscreen></iframe>
+- Attend live or watch a recording of the Devtoberfest session [🟢 What’s New in the ABAP RESTful Application Programming Model (RAP)?]
 
 
 ## Intro
