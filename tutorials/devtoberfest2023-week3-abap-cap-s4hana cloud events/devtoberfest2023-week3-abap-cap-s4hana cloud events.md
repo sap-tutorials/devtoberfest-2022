@@ -8,14 +8,14 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2023 - CAP, Week 3 - SAP S4HANA Cloud Events
+# 🟢 Devtoberfest 2023 - CAP, Week 3 - SAP S/4HANA Cloud Events
 <!-- description --> We hope you enjoyed the session on SAP Business Application Studio productivity tools. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
  
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 Consume SAP S4HANA or SAP S4HANA Cloud Events Using SAP Business Application Studio](https://www.youtube.com/watch?v=vR78mU0flx8). <iframe width="560" height="315" src="https://www.youtube.com/embed/vR78mU0flx8" frameborder="0" allowfullscreen></iframe> 
+- Attend live or watch a recording of the Devtoberfest session [🟢 Consume SAP S/4HANA or SAP S/4HANA Cloud Events Using SAP Business Application Studio](https://www.youtube.com/watch?v=vR78mU0flx8). <iframe width="560" height="315" src="https://www.youtube.com/embed/vR78mU0flx8" frameborder="0" allowfullscreen></iframe> 
 
 
 ## Intro
