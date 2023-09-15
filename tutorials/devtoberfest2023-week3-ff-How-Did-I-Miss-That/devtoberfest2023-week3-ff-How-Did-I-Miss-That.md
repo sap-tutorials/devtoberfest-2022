@@ -2,7 +2,7 @@
 auto_validation: true
 time: 1
 author_name: Josh Bentley
-author_profile: https://github.com/thecodesterjarjarbentley
+author_profile: https://github.com/jarjarbentley
 tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
