@@ -25,4 +25,30 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<b>👉 Questions for this quiz will be provided during the first week of Devtoberfest.</b>
+### Question 1
+A key component within a process is the form, whether to start a process, to get approval from a user, or to just notify someone.
+
+The form editor lets you drag components onto the form and to configure them.
+
+![Properties](properties.png)
+
+
+### Question 2
+In the documentation, you learn more about [triggers for processes](https://help.sap.com/docs/build-process-automation/sap-build-process-automation/create-business-process?locale=en-US&q=trigger) and [triggers for automations](https://help.sap.com/docs/build-process-automation/sap-build-process-automation/add-automation-trigger-to-project?locale=en-US&q=trigger).
+
+
+
+### Question 3
+SDKs are the connectors that enable your automation bot to connect to different technologies like SAP GUI or SAPUI5.
+
+You can learn more about SDKs in the [documentation](https://help.sap.com/docs/intelligent-robotic-process-automation/cloud-studio-user-guide/automation-activities-provided-by-sdk-packages). You can also open a project and see the potential dependencies you can add to your project.
+
+![SDKs](dependencies.png)
+
+
+### Question 4
+You can send mails within your automation by creating a destination with all the details about your mail server.
+
+You can learn more about setting this up in the [documentation](https://help.sap.com/docs/build-process-automation/sap-build-process-automation/configuring-smtp-mail-destination).
+
+
