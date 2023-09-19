@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 From Idea to Reality: Simplifying App Development for Everyone with SAP Build Apps ](https://www.youtube.com/watch?v=E5AtAZpkkwE).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 From Idea to Reality: Simplifying App Development for Everyone with SAP Build Apps ](https://www.youtube.com/watch?v=E5AtAZpkkwE).&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/E5AtAZpkkwE" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

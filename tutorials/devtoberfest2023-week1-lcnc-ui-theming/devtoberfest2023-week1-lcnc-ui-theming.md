@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ).  &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/DWSw1AAmjMQ" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
