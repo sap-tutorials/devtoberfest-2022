@@ -8,7 +8,7 @@ primary_tag: topic>artificial-intelligence
 parser: v2
 ---
 
-# 🔵 Devtoberfest 2023 - Data & Analytics, AI, Week 2 - AI Ethics: Implications and Challenges
+# 🔵 Devtoberfest 2023 - Data & Analytics, AI, Week 3 - AI Ethics: Implications and Challenges
 <!-- description --> We hope you enjoyed the session about AI Ethics at SAP. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
 
 ## You will learn

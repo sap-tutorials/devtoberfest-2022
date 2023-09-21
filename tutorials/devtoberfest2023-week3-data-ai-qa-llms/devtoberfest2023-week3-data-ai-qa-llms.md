@@ -8,7 +8,7 @@ primary_tag: topic>artificial-intelligence
 parser: v2
 ---
 
-# 🔵 Devtoberfest 2023 - Data & Analytics, AI, Week 2 - Question Answering Leveraging Large Language Models
+# 🔵 Devtoberfest 2023 - Data & Analytics, AI, Week 3 - Question Answering Leveraging Large Language Models
 <!-- description --> We hope you enjoyed the session about enhancing ChatGPT with context specific knowledge. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
 
 ## You will learn
