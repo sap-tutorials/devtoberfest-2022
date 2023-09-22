@@ -4,7 +4,7 @@ time: 1
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
-primary_tag: topic>cloud
+primary_tag: topic>cloud 
 parser: v2
 ---
 
@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 To Come](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Start Your Journey with Low-Code/No-Code Development](https://www.youtube.com/watch?v=0rmfJRaO1mw). &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/0rmfJRaO1mw" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
@@ -29,4 +29,4 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 ### Question 1
 
-### Question 2
+### Question 2 

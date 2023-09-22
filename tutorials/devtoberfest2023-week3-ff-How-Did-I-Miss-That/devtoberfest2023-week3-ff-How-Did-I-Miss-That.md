@@ -1,22 +1,18 @@
 ---
 auto_validation: true
 time: 1
-author_name: Mamikee Kanneh
-author_profile: https://github.com/mamikee
+author_name: Josh Bentley
+author_profile: https://github.com/jarjarbentley
 tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2023 - CAP, Week 1 - SAP Extensibility 
-<!-- description --> We hope you enjoyed the session on SAP Extensibility. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
+# 🟡 Devtoberfest 2023 - Fun Friday Event
+<!-- description --> We all make mistakes, right? Attend the "How Did I Miss That?" session and take this quiz to earn points for the Devtoberfest grand prize.
  
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
-
-## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 Making SAP Extensibility Real with CAP in 60 minutes](https://www.youtube.com/watch?v=zoJ7umKZKB4). <iframe width="560" height="315" src="https://www.youtube.com/embed/zoJ7umKZKB4" frameborder="0" allowfullscreen></iframe>
-
 
 ## Intro
 This tutorial is part of the Devtoberfest 2023, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
@@ -27,6 +23,6 @@ This tutorial is part of the Devtoberfest 2023, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357)
 
-### Question 1
+&nbsp;
 
-### Question 2 
+<b>👉 Questions for this quiz will be provided during the third week of Devtoberfest.</b>

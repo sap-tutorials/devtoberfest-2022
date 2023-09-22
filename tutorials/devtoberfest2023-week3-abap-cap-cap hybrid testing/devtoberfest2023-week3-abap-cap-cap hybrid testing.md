@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 SAP Cloud Application Programming Model, Hybrid Testing, and Alternative DBs]
+- Attend live or watch a recording of the Devtoberfest session [🟢 SAP Cloud Application Programming Model, Hybrid Testing, and Alternative DBs](https://www.youtube.com/watch?v=vqub4vJbZX8). <iframe width="560" height="315" src="https://www.youtube.com/embed/vqub4vJbZX8" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

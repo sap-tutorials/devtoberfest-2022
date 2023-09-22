@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 To Come](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Introducing Enterprise Automation: Process Integration, Analysis, and Automation All Together](https://www.youtube.com/watch?v=B8orRs1Cikw).&nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/B8orRs1Cikw" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
@@ -27,6 +27,10 @@ This tutorial is part of the Devtoberfest 2023, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357)
 
-&nbsp;
+### Question 1
 
-<b>👉 Questions for this session will be provided 30 minutes after the conclusion of the session.</b>
+
+### Question 2
+
+
+### Question 3
