@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 To Come](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Introducing Enterprise Automation: Process Integration, Analysis, and Automation All Together](https://www.youtube.com/watch?v=B8orRs1Cikw).&nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/B8orRs1Cikw" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

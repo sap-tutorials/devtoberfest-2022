@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM). &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/bhR2mbYwDOM" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

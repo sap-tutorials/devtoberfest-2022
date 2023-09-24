@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 The Build Store: Let Prebuilt Content Turbocharge Your Development](https://www.youtube.com/watch?v=IVr9JYUtvu4).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 The Build Store: Let Prebuilt Content Turbocharge Your Development](https://www.youtube.com/watch?v=IVr9JYUtvu4).&nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/IVr9JYUtvu4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

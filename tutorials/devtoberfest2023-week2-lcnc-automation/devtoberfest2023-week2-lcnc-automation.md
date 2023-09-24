@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Start Automating Your Work with SAP Build Process Automation](https://www.youtube.com/watch?v=PGyFYzFTUrc).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Start Automating Your Work with SAP Build Process Automation](https://www.youtube.com/watch?v=PGyFYzFTUrc).&nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/PGyFYzFTUrc" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
