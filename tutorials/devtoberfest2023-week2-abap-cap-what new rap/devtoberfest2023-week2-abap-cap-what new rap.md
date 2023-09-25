@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 What’s New in the ABAP RESTful Application Programming Model (RAP)?]
+- Attend live or watch a recording of the Devtoberfest session [🟢 What’s New in the ABAP RESTful Application Programming Model (RAP)?](https://www.youtube.com/watch?v=yGWn8EKVpN0). <iframe width="560" height="315" src="https://www.youtube.com/embed/yGWn8EKVpN0" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
