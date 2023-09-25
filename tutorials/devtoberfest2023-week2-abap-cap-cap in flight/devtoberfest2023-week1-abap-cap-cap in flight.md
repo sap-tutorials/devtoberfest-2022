@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 SAP CAP in Flight: BTP Cloud Foundry Automated Deployments with Azure DevOps]
+- Attend live or watch a recording of the Devtoberfest session [🟢 SAP CAP in Flight: BTP Cloud Foundry Automated Deployments with Azure DevOps](https://www.youtube.com/watch?v=lfWhp7Cyx0A). <iframe width="560" height="315" src="https://www.youtube.com/embed/lfWhp7Cyx0A" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
