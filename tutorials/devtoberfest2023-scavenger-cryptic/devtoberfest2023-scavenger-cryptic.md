@@ -45,6 +45,8 @@ For example, my favorite clue is something like this:
 
 So the answer is, of course,  ... SAP 🥳 
 
+We have already filled in 2 answers for you: **SAP BTP** (the platform on which SAP Build is available) and **List** (a complex data type in SAP Build Apps and SAP Build Process Automation).
+
 ### 2 Across
 
 ### 6 Across
@@ -75,6 +77,8 @@ So the answer is, of course,  ... SAP 🥳
 ### 4 Down
 
 ### 5 Down
+
+### 7 Down
 
 ### 8 Down
 
