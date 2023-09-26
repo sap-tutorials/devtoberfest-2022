@@ -4,7 +4,7 @@ time: 1
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
-primary_tag: topic>cloud
+primary_tag: topic>cloud 
 parser: v2
 ---
 
