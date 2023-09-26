@@ -4,7 +4,7 @@ time: 1
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
-primary_tag: topic>cloud 
+primary_tag: topic>cloud  
 parser: v2
 ---
 
@@ -77,8 +77,6 @@ We have already filled in 2 answers for you: **SAP BTP** (the platform on which 
 ### 4 Down
 
 ### 5 Down
-
-### 7 Down
 
 ### 8 Down
 
