@@ -4,7 +4,7 @@ time: 1
 author_name: Ian Thain
 author_profile: https://github.com/ithain
 tags: [ tutorial>beginner, topic>cloud ]
-primary_tag: topic>cloud
+primary_tag: topic>cloud 
 parser: v2
 ---
 
@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Add Event-Based Triggers To Your Processes](https://www.youtube.com/watch?v=VjLYmyI4lL4).&nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/VjLYmyI4lL4" frameborder="0" allowfullscreen></iframe>
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Add Event-Based Triggers To Your Processes](https://www.youtube.com/watch?v=VjLYmyI4lL4).&nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/VjLYmyI4lL4" frameborder="0" allowfullscreen> </iframe>
 
 
 ## Intro
@@ -29,4 +29,7 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<b>👉 Questions for this session will be provided 30 minutes after the conclusion of the session.</b>
+### Question 1
+
+
+### Question 2
