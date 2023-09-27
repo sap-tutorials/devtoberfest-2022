@@ -23,6 +23,12 @@ This tutorial is part of the Devtoberfest 2023, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357)
 
+![Divider](divider.jpg)
+
+For these questions, you can install  SAP Build Apps on your SAP BTP trial account. See [Set Up SAP Build Apps (with Booster) on SAP BTP Trial Account](https://developers.sap.com/tutorials/build-apps-trial-booster.html) for instructions on installing (<10 minutes).
+
+
+
 ### Question 1
 In addition to the basic UI components available in the **Core** tab, you can find additional components in the Marketplace.
 

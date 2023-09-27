@@ -25,6 +25,11 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
+![Divider](divider.jpg)
+
+For these questions, you can install  SAP Build Process Automation on your SAP BTP trial account. See [Subscribe to SAP Build Process Automation Using SAP BTP Free Trial](https://developers.sap.com/tutorials/spa-subscribe-free-trial.html) for instructions on installing (<10 minutes).
+
+
 ### Question 1
 A key component within a process is the form, whether to start a process, to get approval from a user, or to just notify someone.
 
