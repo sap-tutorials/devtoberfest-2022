@@ -28,5 +28,3 @@ For specifics on the Devtoberfest contest and the grand prize, see [Devtoberfest
 
 ### Question 1
 
-
-### Question 2
