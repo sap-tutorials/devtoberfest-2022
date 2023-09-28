@@ -62,7 +62,7 @@ Read Daniel Wroblewski's blog [Handling Images in SAP Build Apps](https://blogs.
 In the section on how to take a photo with your mobile phone's camera and display in your app ( **Image from Phone** ), you must get a value from the output of the **Take photo** flow function and pass it to the **Image** component -- so the component can display the image now located in the file system of the phone. 
 
 ### Question 5
-We created a start of an app by creating a cute UI. If you want, you can install the app by downloading it [CatApp.zip.gpg](https://github.com/sap-tutorials/devtoberfest-2022/raw/main/tutorials/devtoberfest2023-scavenger-quiz-apps/CatApp.zip.gpg). Instructions for installing .gpg files are locating at [Migrate to SAP Build Apps](https://help.sap.com/docs/build-apps/service-guide/migrate-to-sap-build-apps).
+We created a start of an app by creating a cute UI. If you want, you can install the app by downloading it [CatApp.zip.gpg](https://github.com/sap-tutorials/devtoberfest-2022/raw/main/tutorials/devtoberfest2023-scavenger-quiz-apps/CatApp.zip.gpg). Instructions for installing .gpg files are located at [Migrate to SAP Build Apps](https://help.sap.com/docs/build-apps/service-guide/migrate-to-sap-build-apps).
 
 ![Cat](catapp.jpg)
 
