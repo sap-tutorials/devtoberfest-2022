@@ -64,7 +64,7 @@ In the section on how to take a photo with your mobile phone's camera and displa
 ### Question 5
 We created a start of an app by creating a cute UI. If you want, you can install the app by downloading it [CatApp.zip.gpg](https://github.com/sap-tutorials/devtoberfest-2022/raw/main/tutorials/devtoberfest2023-scavenger-quiz-apps/CatApp.zip.gpg). Instructions for installing .gpg files are located at [Migrate to SAP Build Apps](https://help.sap.com/docs/build-apps/service-guide/migrate-to-sap-build-apps).
 
-![Cat](catapp.jpg)
+![Cat](cat3.png)
 
 We created only 3 things:
 
@@ -75,6 +75,8 @@ We created only 3 things:
 Explore the UI and the **Style** and **Layout** tabs to see what fields were changed. To learn more generally how to set up UIs like these, see the [Curiosity Labs YouTube channel](https://www.youtube.com/@CuriosityLab_talk).
 
 The next 3 questions relate to this layout. 
+
+>The **Meow** button is for your enjoyment.
 
 
 
