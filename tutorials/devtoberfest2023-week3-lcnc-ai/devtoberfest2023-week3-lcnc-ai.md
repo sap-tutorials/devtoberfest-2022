@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Empowering SAP Build Apps with OpenAI: A New Paradigm in App Development](https://www.youtube.com/watch?v=TJceTJr1l0Y).
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Empowering SAP Build Apps with OpenAI: A New Paradigm in App Development](https://www.youtube.com/watch?v=TJceTJr1l0Y). &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/TJceTJr1l0Y" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
