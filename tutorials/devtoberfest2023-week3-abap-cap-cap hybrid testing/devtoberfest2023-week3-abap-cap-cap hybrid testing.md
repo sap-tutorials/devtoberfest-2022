@@ -10,7 +10,7 @@ parser: v2
 
 # 🟢 Devtoberfest 2023 - CAP, Week 3 - SAP Cloud Application Programming Model
 
-<!-- description --> We hope you enjoyed the session on SAP Cloud Application Programming Model, Hybrid Testing, and Alternative DBs. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
+<!-- description --> We hope you enjoyed the session on SAP Cloud Application Programming Model, Hybrid Testing, and Alternative databases. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
 
 ## You will learn
 
