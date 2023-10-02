@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU). &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/pyFhHNxznuU)" frameborder="0" allowfullscreen></iframe>
+- Attend live or watch a recordings of the Devtoberfest session [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU). &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/pyFhHNxznuU" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
