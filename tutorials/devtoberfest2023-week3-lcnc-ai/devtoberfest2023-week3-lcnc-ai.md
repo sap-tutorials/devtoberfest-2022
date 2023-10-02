@@ -19,7 +19,7 @@ parser: v2
 
 
 ## Intro
-This tutorial is part of the Devtoberfest 2023, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
+This tutorial is part of the Devtoberfest 2023, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest). 
 
 ![Devtoberfest](devtoberfest-banner.gif)
 
@@ -29,4 +29,7 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<b>👉 Questions for this session will be provided 30 minutes after the conclusion of the session.</b>
+### Question 1
+
+
+### Question 2
