@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recordings of the Devtoberfest session [🟣 Collaborate to Build S/4HANA Extensions Using SAP Build with CAP and RAP](https://www.youtube.com/watch?v=yXROwwzyYEI).  &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/watch?v=yXROwwzyYEI" frameborder="0" allowfullscreen></iframe>
+- Attend live or watch a recordings of the Devtoberfest session [🟣 Collaborate to Build S/4HANA Extensions Using SAP Build with CAP and RAP](https://www.youtube.com/watch?v=yXROwwzyYEI).  &nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/yXROwwzyYEI" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
