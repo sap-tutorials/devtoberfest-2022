@@ -4,7 +4,7 @@ time: 1
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
-primary_tag: topic>cloud
+primary_tag: topic>cloud 
 parser: v2
 ---
 
@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Intro
-This tutorial is part of the Devtoberfest 2023, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
+This tutorial is part of the Devtoberfest 2023, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest). 
 
 ![Devtoberfest](devtoberfest-banner.gif)
 
