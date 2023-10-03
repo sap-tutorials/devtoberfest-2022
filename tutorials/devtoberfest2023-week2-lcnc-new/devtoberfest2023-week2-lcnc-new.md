@@ -4,7 +4,7 @@ time: 1
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
-primary_tag: topic>cloud 
+primary_tag: topic>cloud
 parser: v2
 ---
 
@@ -12,7 +12,7 @@ parser: v2
 <!-- description --> We hope you enjoyed the session on the latest features in SAP Build Process Automation and how to use them. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
  
 ## You will learn
-- A lot about technology – and yourself – during Devtoberfest!
+- A lot about technology – and yourself – during Devtoberfest! 
 
 ## Prerequisites
 - Attend live or watch a recordings of the Devtoberfest session [🟣 What’s New in SAP Build Process Automation](https://www.youtube.com/watch?v=Xlvuc0S5zec).&nbsp;<br>&nbsp;<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Xlvuc0S5zec" frameborder="0" allowfullscreen></iframe>
