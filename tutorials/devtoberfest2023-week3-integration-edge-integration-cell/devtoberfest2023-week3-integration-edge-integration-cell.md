@@ -29,4 +29,8 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<b>👉 Questions for this session will be provided 30 minutes after the conclusion of the session.</b>
+### Question 1
+
+### Question 2
+
+### Question 3
