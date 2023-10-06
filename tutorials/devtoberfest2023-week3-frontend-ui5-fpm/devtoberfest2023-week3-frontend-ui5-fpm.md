@@ -18,7 +18,6 @@ parser: v2
 - Attend live or watch a recording of the Devtoberfest session [🟠 Equip an SAPUI5 freestyle app with the Flexible Programming Model](https://groups.community.sap.com/t5/devtoberfest/equip-an-sapui5-freestyle-app-with-the-flexible-programming-model/ec-p/283520#M370).
   <iframe width="560" height="315" src="https://www.youtube.com/embed/sx3dQOxXyHc" frameborder="0" allowfullscreen></iframe>
 
-
 ## Intro
 This tutorial is part of the Devtoberfest 2023, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
 
