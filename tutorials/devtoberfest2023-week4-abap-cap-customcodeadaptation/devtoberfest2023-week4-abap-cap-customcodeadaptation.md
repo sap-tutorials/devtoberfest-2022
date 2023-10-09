@@ -6,7 +6,7 @@ author_profile: https://github.com/mamikee
 tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
----
+-------
 
 # 🟢 Devtoberfest 2023 - ABAP, Week 4 - Custom Code Adaptation
 <!-- description --> We hope you enjoyed the session on custom code adaptation to SAP S/4HANA and ABAP Cloud. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
@@ -27,6 +27,12 @@ This tutorial is part of the Devtoberfest 2023, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357)
 
-&nbsp;
+### Question 1   
 
-<b>👉 Questions for this session will be provided 30 minutes after the conclusion of the session.</b>
+<<<<<<< HEAD:tutorials/devtoberfest2023-week4-abap-cap-customcodeadaptation/devtoberfest2023-week4-abap-cap-customcodeadaptation.md
+### Question 2 
+=======
+### Question 1
+
+### Question 2
+>>>>>>> 16ddc72095b2c7704d9718968d80550b2caf8e5c:tutorials/devtoberfest2023-week4-abap-cap-custom code adaptation/devtoberfest2023-week4-abap-cap-custom code adaptation.md
