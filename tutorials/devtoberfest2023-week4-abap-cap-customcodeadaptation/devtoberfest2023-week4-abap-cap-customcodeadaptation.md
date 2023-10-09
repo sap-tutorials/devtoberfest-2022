@@ -23,16 +23,8 @@ This tutorial is part of the Devtoberfest 2023, a celebration of and for Develop
 
 ![Devtoberfest](devtoberfest-banner.gif)
 
-&nbsp;
-
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357)
 
-### Question 1   
-
-<<<<<<< HEAD:tutorials/devtoberfest2023-week4-abap-cap-customcodeadaptation/devtoberfest2023-week4-abap-cap-customcodeadaptation.md
-### Question 2 
-=======
 ### Question 1
-
-### Question 2
->>>>>>> 16ddc72095b2c7704d9718968d80550b2caf8e5c:tutorials/devtoberfest2023-week4-abap-cap-custom code adaptation/devtoberfest2023-week4-abap-cap-custom code adaptation.md
+   
+### Question 2 

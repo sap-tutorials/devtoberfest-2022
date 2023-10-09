@@ -6,7 +6,7 @@ author_profile: https://github.com/mamikee
 tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
----
+----
 
 # 🟢 Devtoberfest 2023 - ABAP, Week 4 - Cloud API Enablement
 <!-- description --> We hope you enjoyed the session on Cloud API Enablement on SAP S/4HANA and SAP S/4HANA Cloud. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
@@ -29,4 +29,10 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<b>👉 Questions for this session will be provided 30 minutes after the conclusion of the session.</b>
+### Question 1
+
+### Question 2
+
+### Question 3
+
+### Question 4
