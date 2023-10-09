@@ -1,21 +1,21 @@
 ---
-auto_validation: true
+auto_validation: true 
 time: 1
-author_name: Mamikee Kanneh
+author_name: Mamikee Kanneh 
 author_profile: https://github.com/mamikee
 tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2023 - ABAP, Week 3 - ABAP Cloud
-<!-- description --> We hope you enjoyed the session on ABAP Cloud. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
+# 🟢 Devtoberfest 2023 - CAP, Week 4 - CAP Java
+<!-- description --> We hope you enjoyed the session on you how to efficiently develop applications with CAP Java. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
  
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟢 Hello, ABAP Cloud!](https://www.youtube.com/watch?v=QuMgQ9chPFA). <iframe width="560" height="315" src="https://www.youtube.com/embed/QuMgQ9chPFA" frameborder="0" allowfullscreen></iframe>
+- Attend live or watch a recording of the Devtoberfest session [🟢 Boost your Developer Experience for CAP Java Development](https://www.youtube.com/watch?v=zvpd0T0pZfw). <iframe width="560" height="315" src="https://www.youtube.com/embed/zvpd0T0pZfw" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro

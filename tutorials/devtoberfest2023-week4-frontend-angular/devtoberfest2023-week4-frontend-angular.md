@@ -8,14 +8,15 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟠 Devtoberfest 2023 - Frontend, Week 3 - Metadata-driven Development with SAPUI5
-<!-- description --> We hope you enjoyed the session on Metadata-driven development with SAPUI5. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
+# 🟠 Devtoberfest 2023 - Frontend, Week 4 - Create Angular applications like a pro
+<!-- description --> We hope you enjoyed the session on creating Angular applications like a pro. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
 
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [🟠 Metadata-driven Development with SAPUI5](https://groups.community.sap.com/t5/devtoberfest/metadata-driven-development-with-sapui5/ec-p/283252#M365).
+- Attend live or watch a recording of the Devtoberfest session [🟠 Create Angular applications like a pro](https://groups.community.sap.com/t5/devtoberfest/create-angular-applications-like-a-pro/ec-p/289440#M472).
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Zoy6Ag8gQfA" frameborder="0" allowfullscreen></iframe>
 
 
 ## Intro
@@ -29,8 +30,4 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-### Question 1 
-
-### Question 2 
-
-### Question 3 
+<b>👉 Questions for this session will be provided 30 minutes after the conclusion of the session.</b>
