@@ -4,7 +4,7 @@ time: 1
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
-primary_tag: topic>cloud
+primary_tag: topic>cloud 
 parser: v2
 ----
 
@@ -12,7 +12,7 @@ parser: v2
 <!-- description --> We hope you enjoyed the session on the Use Case Evaluator app to help you estimate the effort for no-code app projects. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
  
 ## You will learn
-- A lot about technology – and yourself – during Devtoberfest
+- A lot about technology – and yourself – during Devtoberfest 
 
 ## Prerequisites
 - Attend live or watch a recordings of the Devtoberfest session [🟣 Will No-Code Work for My Use Case? Run the “Use Case Evaluator”](https://www.youtube.com/watch?v=cq2YAquXrPU). <iframe width="560" height="315" src="https://www.youtube.com/embed/cq2YAquXrPU" frameborder="0" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 &nbsp;
 
 ### Question 1
-   
+
 ### Question 2
 
 ### Question 3
