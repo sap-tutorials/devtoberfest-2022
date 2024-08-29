@@ -1,0 +1,56 @@
+---
+auto_validation: true
+time: 1
+author_name: Daniel Wroblewski
+author_profile: https://github.com/thecodester
+tags: [ tutorial>beginner, topic>cloud ]
+primary_tag: topic>cloud
+parser: v2
+---
+
+# 🟢 Devtoberfest 2024 - Tooling, Week 1
+<!-- description --> We hope you enjoyed the sessions for Tooling Tuesdays. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.  
+ 
+## You will learn
+- A lot about technology – and yourself – during Devtoberfest
+
+## Prerequisites
+- Attend live or watch a recording of the Devtoberfest sessions in Week 1 for Tooling Tuesdays 
+- [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo). 
+
+
+## Intro
+This tutorial is part of the Devtoberfest 2024, a celebration of and for Developers. For more information and to join the fun, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest) and join the group.
+
+![Devtoberfest](promo-video-kasimir-square-reduced.gif) 
+
+&nbsp;
+
+For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2023 Contest blog](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2023-contest/ba-p/9357)
+
+
+
+
+
+### Question 1 
+Attend live or watch a recording of [🟣 Transform Data with Scripting in SAP Build Process Automation](https://www.youtube.com/watch?v=SYu9XJCo76Y). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYu9XJCo76Y" frameborder="0" allowfullscreen></iframe>
+
+
+### Question 2 
+Attend live or watch a recording of [🟣 Develop a Full-Stack CAP Application with SAP Build Code](https://www.youtube.com/watch?v=shWiPH15qz4). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shWiPH15qz4" frameborder="0" allowfullscreen></iframe>
+
+
+### Question 3 
+Attend live or watch a recording of [🟣 Develop with SAP Build Apps Like a Pro](https://www.youtube.com/watch?v=yi707bGuvxc). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yi707bGuvxc" frameborder="0" allowfullscreen></iframe>
+
+
+### Question 4 
+Attend live or watch a recording of [🟣 Real-World S/4HANA Invoice Approval Process with SAP Build Process Automation](https://www.youtube.com/watch?v=dSzx6q0DWXU). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dSzx6q0DWXU" frameborder="0" allowfullscreen></iframe>
