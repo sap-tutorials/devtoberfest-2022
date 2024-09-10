@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 180
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
@@ -33,7 +33,71 @@ This puzzle is part of the Devtoberfest 2024, a celebration of and for Developer
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
-  
 
 
+### 1 Across
+
+### 5 Across
+
+### 8 Across
+
+### 9 Across
+
+### 10 Across
+
+### 11 Across
+
+### 14 Across
+
+### 15 Across
+
+### 17 Across
+
+### 22 Across
+
+### 24 Across
+
+### 26 Across
+
+### 27 Across
+
+### 28 Across
+
+### 29 Across
+
+### 1 Down
+
+### 2 Down
+
+### 3 Down
+
+### 4 Down
+
+### 5 Down
+
+### 6 Down
+
+### 7 Down
+
+### 8 Down
+
+### 12 Down
+
+### 13 Down
+
+### 16 Down
+
+### 18 Down
+
+### 19 Down
+
+### 20 Down
+
+### 21 Down
+
+### 23 Down
+
+### 25 Down
+
+### 26 Down
 
