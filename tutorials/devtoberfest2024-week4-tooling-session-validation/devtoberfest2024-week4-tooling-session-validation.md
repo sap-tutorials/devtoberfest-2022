@@ -30,7 +30,7 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
   
 
 
-
+ <!--
 ### Question 1 
 Attend live or watch a recording of [🟣 Chatbot Development Made Easy with SAP AI Core and Build Apps](https://www.youtube.com/watch?v=mE7nHx9XHAY). 
 
@@ -60,3 +60,4 @@ Attend live or watch a recording of [🟣 Extend Joule with Your Own Skills](htt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WKYDpx1nF7c" frameborder="0" allowfullscreen></iframe>
 
 
+-->

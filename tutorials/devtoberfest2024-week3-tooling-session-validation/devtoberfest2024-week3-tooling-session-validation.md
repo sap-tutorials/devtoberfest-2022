@@ -28,7 +28,7 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
    
-
+ <!--
 
 ### Question 1 
 Attend live or watch a recording of [🟣 S/4HANA Extensions: Start Fast with the New Extensibility Wizard](https://www.youtube.com/watch?v=d1Uy5PEwbtc). 
@@ -57,3 +57,4 @@ Attend live or watch a recording of [🟣 Boost Development with GenAI in SAP Bu
 
 
 
+-->
