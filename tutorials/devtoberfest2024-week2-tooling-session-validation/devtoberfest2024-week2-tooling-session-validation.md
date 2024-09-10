@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 120
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
@@ -29,7 +29,6 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
   
 
-<!--
 
 ### Question 1 
 Attend live or watch a recording of [🟣 SAP Build Apps 2049: Soon with UI5 and GenAI?](https://www.youtube.com/watch?v=a-ha-Ef171o). 
@@ -56,5 +55,3 @@ Attend live or watch a recording of [🟣 Putting It All Together: S/4HANA Retai
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JUSURObhSuk" frameborder="0" allowfullscreen></iframe>
 
-
--->

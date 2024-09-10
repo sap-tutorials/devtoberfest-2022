@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 120
 author_name: Daniel Wroblewski
 author_profile: https://github.com/thecodester
 tags: [ tutorial>beginner, topic>cloud ]
@@ -29,7 +29,6 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
    
 
-<!--
 
 ### Question 1 
 Attend live or watch a recording of [🟣 S/4HANA Extensions: Start Fast with the New Extensibility Wizard](https://www.youtube.com/watch?v=d1Uy5PEwbtc). 
@@ -56,5 +55,5 @@ Attend live or watch a recording of [🟣 Boost Development with GenAI in SAP Bu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qsgxe-0XbJc" frameborder="0" allowfullscreen></iframe>
 
--->
+
 
