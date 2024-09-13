@@ -54,6 +54,6 @@ Attend live or watch a recording of [🟢 SAP Business Client & SAP GUI - The Jo
 
 ### Question 5 
 
-Attend live or watch a recording of [🟢 SAP Business Client & SAP GUI - The Journey Continues                                   ](https://www.youtube.com/watch?v=Ihxl85uXrjc). 
+Attend live or watch a recording of [🟢 Revolutionize SAP BTP Extensions with AWS SDK for ABAP to implement a Clean Core Strategy](https://www.youtube.com/watch?v=Ihxl85uXrjc). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihxl85uXrjc" frameborder="0" allowfullscreen></iframe>
