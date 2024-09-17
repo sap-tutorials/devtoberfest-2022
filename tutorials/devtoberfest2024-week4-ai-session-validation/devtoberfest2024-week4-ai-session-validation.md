@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 120
 author_name: Nora von Thenen
 author_profile: https://github.com/noravth
 tags: [ tutorial>beginner, topic>artificial-intelligence, topic>machine-learning ]
