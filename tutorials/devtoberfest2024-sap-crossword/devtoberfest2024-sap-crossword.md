@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
- 
+  
 # 🟣 Devtoberfest 2024 - SAP Crossword
 <!-- description --> As has become tradition, we offer you a crossword with many SAP terms, many of them from SAP Build, and a few related to the current pop music scene. You will win lots of points if you can complete the whole thing.
  
