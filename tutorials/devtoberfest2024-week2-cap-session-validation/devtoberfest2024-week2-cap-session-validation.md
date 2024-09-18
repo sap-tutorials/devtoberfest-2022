@@ -8,14 +8,14 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2024 - CAP, Week 1, Sept. 23
-<!-- description --> We hope you enjoyed the sessions on CAP during Week 1 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
+# 🟢 Devtoberfest 2024 - CAP, Week 2, Sept. 30
+<!-- description --> We hope you enjoyed the sessions on CAP during Week 2 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
  
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in Week 1 for CAP. Each question will include a link to the relevant session. 
+- Attend live or watch a recording of the Devtoberfest session [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in Week 2 for CAP. Each question will include a link to the relevant session. 
 
 
 ## Intro
@@ -31,24 +31,25 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 ### Question 1 
 
-Attend live or watch a recording of [🟢 It's Time for TypeScript (CAP edition)](https://www.youtube.com/watch?v=5DX6FwR5fss). 
+Attend live or watch a recording of [🟢 Implement Observability in a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://community.sap.com/t5/devtoberfest/implement-observability-in-a-full-stack-cap-application-following-sap-btp/ec-p/13856106#M717). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DX6FwR5fss" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/II8-bcHcCAo" frameborder="0" allowfullscreen></iframe>
 
 ### Question 2 
 
-Attend live or watch a recording of [🟢 It's Time for TypeScript (CAP edition)](https://www.youtube.com/watch?v=5DX6FwR5fss). 
+Attend live or watch a recording of [🟢 The superpower of CAP CDS: calculated elements and annotation expressions](https://community.sap.com/t5/devtoberfest/the-superpower-of-cap-cds-calculated-elements-and-annotation-expressions/ec-p/13856112#M718). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DX6FwR5fss" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://community.sap.com/t5/devtoberfest/the-superpower-of-cap-cds-calculated-elements-and-annotation-expressions/ec-p/13856112#M718" frameborder="0" allowfullscreen></iframe>
 
 ### Question 3 
 
-Attend live or watch a recording of [🟢 It's Time for TypeScript (CAP edition)](https://www.youtube.com/watch?v=5DX6FwR5fss). 
+Attend live or watch a recording of [🟢 CAP Tools - What's new](https://community.sap.com/t5/devtoberfest/cap-tools-what-s-new/ec-p/13856118#M720). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DX6FwR5fss" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1s8n-_mR3M" frameborder="0" allowfullscreen></iframe>
 
 ### Question 4 
 
-Attend live or watch a recording of [🟢 It's Time for TypeScript (CAP edition)](https://www.youtube.com/watch?v=5DX6FwR5fss). 
+Attend live or watch a recording of [🟢 The Art & Science of CAP](https://community.sap.com/t5/devtoberfest/the-art-amp-science-of-cap/ec-p/13856120#M721). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DX6FwR5fss" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMchiFnDJ6E" frameborder="0" allowfullscreen></iframe>
+
