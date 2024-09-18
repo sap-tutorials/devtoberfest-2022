@@ -29,7 +29,7 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-### Question 1 
+<!-- ### Question 1 
 
 Attend live or watch a recording of [🟢 It's Time for TypeScript (CAP edition)](https://www.youtube.com/watch?v=5DX6FwR5fss). 
 
@@ -51,4 +51,4 @@ Attend live or watch a recording of [🟢 It's Time for TypeScript (CAP edition)
 
 Attend live or watch a recording of [🟢 It's Time for TypeScript (CAP edition)](https://www.youtube.com/watch?v=5DX6FwR5fss). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DX6FwR5fss" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5DX6FwR5fss" frameborder="0" allowfullscreen></iframe> -->
