@@ -8,7 +8,7 @@ primary_tag: topic>artificial-intelligence
 parser: v2
 ---
 
-# 🔵 Devtoberfest 2024 - MAD (ML, AI & Data), Week 4 - Oct. 24
+# 🔵 Devtoberfest 2024 - MAD (ML, AI & Data),Validation Tutorial Jump Start Session on Joule - Oct. 24
 <!-- description --> We hope you enjoyed the Jump Start AI sessions from virtual TechEd. Show that you completed them, and earn extra points toward the Devtoberfest grand prize.
 
 ## You will learn
