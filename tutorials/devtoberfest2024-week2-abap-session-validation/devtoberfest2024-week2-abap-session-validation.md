@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 5
+time: 120
 author_name: Sheena M K
 author_profile: https://github.com/sheenamk
 tags: [ tutorial>beginner, topic>cloud ]
