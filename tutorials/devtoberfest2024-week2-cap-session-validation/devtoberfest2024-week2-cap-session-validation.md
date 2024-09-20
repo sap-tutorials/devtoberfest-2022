@@ -29,7 +29,7 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-### Question 1 
+<!-- ### Question 1 
 
 Attend live or watch a recording of [🟢 Implement Observability in a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://community.sap.com/t5/devtoberfest/implement-observability-in-a-full-stack-cap-application-following-sap-btp/ec-p/13856106#M717). 
 
@@ -53,3 +53,4 @@ Attend live or watch a recording of [🟢 The Art & Science of CAP](https://comm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XMchiFnDJ6E" frameborder="0" allowfullscreen></iframe>
 
+ -->

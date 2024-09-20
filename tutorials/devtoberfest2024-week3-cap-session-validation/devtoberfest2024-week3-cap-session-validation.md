@@ -28,7 +28,7 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
 &nbsp;
-
+<!-- 
 ### Question 1 
 
 Attend live or watch a recording of [🟢 How to build a CAP plugin with Node.js)](https://community.sap.com/t5/devtoberfest/how-to-build-a-cap-plugin-with-node-js/ec-p/13856124#M723). 
@@ -48,3 +48,4 @@ Attend live or watch a recording of [🟢 Streamlining GenAI Development: A Deve
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHW5TIx_HBg" frameborder="0" allowfullscreen></iframe>
 
 
+ -->
