@@ -28,6 +28,8 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
+<!--
+
 ### Question 1 
 
 Attend live or watch a recording of [🟢 Overview of Reuse Services in ABAP Cloud                                                ](https://www.youtube.com/watch?v=PmKor6vasxM). 
@@ -57,3 +59,4 @@ Attend live or watch a recording of [🟢 SAP Business Client & SAP GUI - The Jo
 Attend live or watch a recording of [🟢 Revolutionize SAP BTP Extensions with AWS SDK for ABAP to implement a Clean Core Strategy](https://www.youtube.com/watch?v=Ihxl85uXrjc). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihxl85uXrjc" frameborder="0" allowfullscreen></iframe>
+-->

@@ -29,6 +29,8 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
+<!--
+
 ### Question 1 
 
 Attend live or watch a recording of [🟢 Clean Core Extensibility with ABAP Cloud in SAP S/4HANA Cloud Private Edition](https://www.youtube.com/watch?v=HQPXI1Ba-Gk). 
@@ -58,3 +60,5 @@ Attend live or watch a recording of [🟢 Major Updates for Embedded Analytics i
 Attend live or watch a recording of [🟢 Data Integration in ABAP Cloud with SQL services and CDS External Entities](https://www.youtube.com/watch?v=pu_aa-P3d2o). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu_aa-P3d2o" frameborder="0" allowfullscreen></iframe>
+
+-->
