@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology (and yourself).
 
 ## Prerequisites
-- Attend live or watch a recording of the [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in week 1 for frontend/user interface. Each question will include a link to the relevant session.
+- Attend live or watch a recording of the [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in week 1 for frontend/user interface topics. Each question will include a link to the relevant session.
 
 
 ## Intro
