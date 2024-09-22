@@ -28,13 +28,12 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
   
-<hr>
+![alt text](2023-12-24_18-40-33.png)
 
-- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/8RVo3-h2n-I).<br><iframe width="560" height="315" src="https://www.youtube.com/embed/8RVo3-h2n-I" frameborder="0" allowfullscreen></iframe>. 
-- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/02dPZd1Btuw).<br><iframe width="560" height="315" src="https://www.youtube.com/embed/02dPZd1Btuw" frameborder="0" allowfullscreen></iframe>. 
-- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/PdlusgEMhiU).<br><iframe width="560" height="315" src="https://www.youtube.com/embed/PdlusgEMhiU" frameborder="0" allowfullscreen></iframe>. 
-- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/JiVcTN0JIBU).<br><iframe width="560" height="315" src="https://www.youtube.com/embed/JiVcTN0JIBU" frameborder="0" allowfullscreen></iframe>. 
-
+- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/8RVo3-h2n-I)<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/8RVo3-h2n-I" frameborder="0" allowfullscreen></iframe> 
+- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/02dPZd1Btuw).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/02dPZd1Btuw" frameborder="0" allowfullscreen></iframe>. 
+- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/PdlusgEMhiU).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/PdlusgEMhiU" frameborder="0" allowfullscreen></iframe>. 
+- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/JiVcTN0JIBU).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/JiVcTN0JIBU" frameborder="0" allowfullscreen></iframe>. 
 
 
 ### Question 1 (video #1) 
