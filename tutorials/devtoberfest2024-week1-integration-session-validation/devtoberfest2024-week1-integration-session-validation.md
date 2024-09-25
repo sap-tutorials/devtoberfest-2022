@@ -26,9 +26,7 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 &nbsp;
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
-  
 
- <!--
 
 ### Question 1 
 Attend live or watch a recording of [🔴 Automate your SAP Cloud Integration governance with CPILint](https://youtube.com/watch?v=uJJKxuIeKeg).
@@ -47,4 +45,3 @@ Attend live or watch a recording of [🔴 FlashPipe - Your CI/CD Companion for S
 
 <iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/AGP1y1qwk9U"" frameborder=""0"" allowfullscreen></iframe>
 
--->
