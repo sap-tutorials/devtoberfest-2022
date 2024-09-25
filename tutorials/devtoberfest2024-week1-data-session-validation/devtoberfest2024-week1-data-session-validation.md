@@ -33,4 +33,4 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 Attend live or watch a recording of [🔵 Best of SAP BW Features in SAP Datasphere](https://community.sap.com/t5/devtoberfest/best-of-sap-bw-features-in-sap-datasphere/ev-p/13859422). 
 
-<iframe width="560" height="315" src="https://youtu.be/1_fmdhMNfVQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_fmdhMNfVQ?si=oc_Ipy754xd1p91S" frameborder="0" allowfullscreen></iframe>
