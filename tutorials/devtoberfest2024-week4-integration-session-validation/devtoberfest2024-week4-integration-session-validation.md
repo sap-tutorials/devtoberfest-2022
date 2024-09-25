@@ -33,13 +33,13 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 ### Question 1 
 Attend live or watch a recording of [🔴 Improve Operational Efficiency using AI-enabled API Anomaly Detection](https://youtube.com/watch?v=KvEWoKtGB9c).
 
-<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/KvEWoKtGB9c"" frameborder=""0"" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KvEWoKtGB9c" frameborder="0" allowfullscreen></iframe>
 
  
 ### Question 2 
 Attend live or watch a recording of [🔴 Enterprise Automation with SAP: Latest Enhancements](https://youtube.com/watch?v=m46jocrGUas).
 
-<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/m46jocrGUas"" frameborder=""0"" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m46jocrGUas" frameborder="0" allowfullscreen></iframe>
 
 
 -->
