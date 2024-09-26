@@ -33,10 +33,10 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 Attend live or watch a recording of [🟠 SAP Fiori Tools - preview-middleware](https://www.youtube.com/watch?v=EiMjxninoUE). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EiMjxninoUE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EiMjxninoUE?si=S8ol-W2FHiupAZV8" frameborder="0" allowfullscreen></iframe>
 
 ### Question 2 
 
 Attend live or watch a recording of [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7aAehB4ejHQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7aAehB4ejHQ?si=alFOXxVhdVGF7iXY" frameborder="0" allowfullscreen></iframe>
