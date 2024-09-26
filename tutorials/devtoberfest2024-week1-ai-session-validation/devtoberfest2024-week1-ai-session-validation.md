@@ -38,16 +38,16 @@ Attend live or watch a recording of [🔵 Getting Started with Agents using SAP 
 
 Attend live or watch a recording of [🔵 Best of SAP BW Features in SAP Datasphere](https://community.sap.com/t5/devtoberfest/best-of-sap-bw-features-in-sap-datasphere/ev-p/13859422). 
 
-<iframe width="560" height="315" src="https://youtu.be/1_fmdhMNfVQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_fmdhMNfVQ?si=-mskQffH5Z-FcQ7t" frameborder="0" allowfullscreen></iframe>
 
 ### Question 3 
 
 Attend live or watch a recording of [🔵 Build an Orchestration workflow with Generative AI Hub](https://community.sap.com/t5/devtoberfest/build-an-orchestration-workflow-with-generative-ai-hub/ev-p/13856123). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=m4ISFBLziD4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4ISFBLziD4?si=dqmS3FXiPgS2KNeA" frameborder="0" allowfullscreen></iframe>
 
 ### Question 4 
 
 Attend live or watch a recording of [🔵 Improve RAG performance with Knowledge Graphs, Generative AI Hub and SAP BTP](https://community.sap.com/t5/devtoberfest/improve-rag-performance-with-knowledge-graphs-generative-ai-hub-and-sap-btp/ev-p/13856115). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uiv29xYlXvQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uiv29xYlXvQ?si=51VbxQC4HIVvUN5T" frameborder="0" allowfullscreen></iframe>
