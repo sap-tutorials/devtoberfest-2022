@@ -32,7 +32,7 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 Attend live or watch a recording of [🔵 Getting Started with Agents using SAP Generative AI Hub](https://community.sap.com/t5/devtoberfest/getting-started-with-agents-using-sap-generative-ai-hub/ev-p/13865119). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NgWwuJ7mya0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NgWwuJ7mya0?si=DDIhWGrw0GB6VT-s" frameborder="0" allowfullscreen></iframe>
 
 ### Question 2 
 
