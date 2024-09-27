@@ -31,9 +31,9 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 ### Question 1 
 
-Attend live or watch a recording of [🟠 SAP Fiori Tools - preview-middleware](https://www.youtube.com/watch?v=EiMjxninoUE). 
+Attend live or watch a recording of [🟠 SAP Fiori Tools - preview-middleware](https://www.youtube.com/watch?v=6GqKa_MLrDk). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EiMjxninoUE?si=S8ol-W2FHiupAZV8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GqKa_MLrDk?si=DRUwl0WAqlBijHl-" frameborder="0" allowfullscreen></iframe>
 
 ### Question 2 
 
