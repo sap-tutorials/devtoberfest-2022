@@ -31,16 +31,15 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 
 ### Question 1 
-Attend live or watch a recording of [🟣 Transform Data with Scripting in SAP Build Process Automation](https://www.youtube.com/watch?v=SYu9XJCo76Y). 
+Attend live or watch a recording of [🟣 Transform Data with Scripting in SAP Build Process Automation](https://www.youtube.com/watch?v=Su2QvsCqjt4&ab_channel=SAPDevelopers). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYu9XJCo76Y" frameborder="0" allowfullscreen></iframe>
 
 
 ### Question 2 
-Attend live or watch a recording of [🟣 Develop a Full-Stack CAP Application with SAP Build Code](https://www.youtube.com/watch?v=shWiPH15qz4). 
+Attend live or watch a recording of [🟣 Develop a Full-Stack CAP Application with SAP Build Code](https://www.youtube.com/watch?v=4o2Swj89zxU&ab_channel=SAPDevelopers). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/shWiPH15qz4" frameborder="0" allowfullscreen></iframe>
-
 
 ### Question 3 
 Attend live or watch a recording of [🟣 Develop with SAP Build Apps Like a Pro](https://www.youtube.com/watch?v=yi707bGuvxc). 
