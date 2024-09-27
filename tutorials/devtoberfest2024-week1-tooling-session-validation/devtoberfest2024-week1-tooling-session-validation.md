@@ -31,24 +31,24 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 
 ### Question 1 
-Attend live or watch a recording of [🟣 Transform Data with Scripting in SAP Build Process Automation](https://www.youtube.com/watch?v=Su2QvsCqjt4&ab_channel=SAPDevelopers). 
+Attend live or watch a recording of [🟣 Transform Data with Scripting in SAP Build Process Automation](https://www.youtube.com/watch?v=Su2QvsCqjt4).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYu9XJCo76Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Su2QvsCqjt4" frameborder="0" allowfullscreen></iframe>
 
 
 ### Question 2 
-Attend live or watch a recording of [🟣 Develop a Full-Stack CAP Application with SAP Build Code](https://www.youtube.com/watch?v=4o2Swj89zxU&ab_channel=SAPDevelopers). 
+Attend live or watch a recording of [🟣 Develop a Full-Stack CAP Application with SAP Build Code](https://www.youtube.com/watch?v=4o2Swj89zxU).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shWiPH15qz4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4o2Swj89zxU" frameborder="0" allowfullscreen></iframe>
 
 ### Question 3 
-Attend live or watch a recording of [🟣 Develop with SAP Build Apps Like a Pro](https://www.youtube.com/watch?v=yi707bGuvxc). 
+Attend live or watch a recording of [🟣 Develop with SAP Build Apps Like a Pro](https://www.youtube.com/watch?v=yi707bGuvxc).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yi707bGuvxc" frameborder="0" allowfullscreen></iframe>
 
 
 ### Question 4 
-Attend live or watch a recording of [🟣 Real-World S/4HANA Invoice Approval Process with SAP Build Process Automation](https://www.youtube.com/watch?v=dSzx6q0DWXU). 
+Attend live or watch a recording of [🟣 Real-World S/4HANA Invoice Approval Process with SAP Build Process Automation](https://www.youtube.com/watch?v=dSzx6q0DWXU).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSzx6q0DWXU" frameborder="0" allowfullscreen></iframe>
 
