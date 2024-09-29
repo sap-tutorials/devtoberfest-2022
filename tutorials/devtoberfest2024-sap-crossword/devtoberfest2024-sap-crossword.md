@@ -20,8 +20,11 @@ parser: v2
 
 ## Intro
 ![Puzzle grid](puzzlegrip-withclues.png)
-
+<div>&nbsp;</div>
 We recommend printing out the grid and completing the puzzle, and then entering the individual answers in the step answers below.
+
+>**TIP:** If you need any help, please post in the discussion [Friends helping friends solve the SAP Crossword Puzzle](https://community.sap.com/t5/devtoberfest-discussions/friends-helping-friends-solve-the-sap-crossword-puzzle/m-p/13876916/highlight/true#M1240).
+
 
 <hr>
 
