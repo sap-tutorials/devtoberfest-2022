@@ -29,8 +29,8 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-This tutorial question for todays sessions will be update after the last session for CAP Today. 
-You can complete this tutorial at the end of the day after it is published with question to earn  points for the Devtoberfest Contest. 
+This tutorial question for todays sessions will be updated after the last session for CAP Today. 
+You can complete this tutorial at the end of the day, after it is published with question to earn  points for the Devtoberfest Contest. 
 
 <!-- ### Question 1 
 
