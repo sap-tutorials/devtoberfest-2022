@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
- 
+  
 # 🟣 Devtoberfest 2024 - Tooling, Watch DMS Video
 <!-- description --> We are really proud of our videos and think they provide easy-to-consume, practical guidance on SAP software. Here's one on the SAP BTP Document Management Service.  
  
