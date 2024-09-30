@@ -12,7 +12,7 @@ parser: v2
 <!-- description --> We hope you enjoyed the sessions on frontend/user interface topics during Week 2 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
  
 ## You will learn
-- A lot about technology (and yourself).
+- A lot about technology - and yourself.
 
 ## Prerequisites
 - Attend live or watch a recording of the [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in week 2 for frontend/user interface topics. Each question will include a link to the relevant session.
