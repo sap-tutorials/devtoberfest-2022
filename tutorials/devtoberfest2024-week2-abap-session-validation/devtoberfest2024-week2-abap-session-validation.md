@@ -17,6 +17,11 @@ parser: v2
 ## Prerequisites
 - Attend live or watch a recording of the Devtoberfest session [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in Week 2 for ABAP. Each question will include a link to the relevant session. 
 
+&nbsp;
+
+For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
+
+&nbsp;
 
 ## Intro
 This tutorial is part of the Devtoberfest 2024, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
