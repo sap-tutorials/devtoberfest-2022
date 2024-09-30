@@ -28,8 +28,6 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<!--
-
 ### Question 1 
 
 Attend live or watch a recording of [🟢 Data Modeling with the latest features of ABAP Core Data Services                        ](https://www.youtube.com/watch?v=HQPXI1Ba-Gk). 
@@ -53,5 +51,3 @@ Attend live or watch a recording of [🟢 SAP Forms by Adobe                    
 Attend live or watch a recording of [🟢 Test Double Mechanisms with ABAP Unit - Your Friend in Achieving Effective Test Automation](https://www.youtube.com/watch?v=nuuqy5CniTs). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nuuqy5CniTs" frameborder="0" allowfullscreen></iframe>
-
--->
