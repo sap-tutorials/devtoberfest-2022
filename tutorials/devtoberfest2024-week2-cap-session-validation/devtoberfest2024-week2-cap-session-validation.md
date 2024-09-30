@@ -29,6 +29,9 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
+This tutorial question for todays sessions will be update after the last session for CAP Today. 
+You can complete this tutorial at the end of the day after it is published with question to earn  points for the Devtoberfest Contest. 
+
 <!-- ### Question 1 
 
 Attend live or watch a recording of [🟢 Implement Observability in a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://community.sap.com/t5/devtoberfest/implement-observability-in-a-full-stack-cap-application-following-sap-btp/ec-p/13856106#M717). 
