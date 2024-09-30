@@ -37,6 +37,6 @@ Attend live or watch a recording of [🟠 SAP Fiori Tools - preview-middleware](
 
 ### Question 2 
 
-Attend live or watch a recording of [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ). 
+Attend live or watch a recording of [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ&ab_channel=SAPDevelopers). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7aAehB4ejHQ?si=alFOXxVhdVGF7iXY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7aAehB4ejHQ?si=5kRMDNtd492kqab_" frameborder="0" allowfullscreen></iframe>
