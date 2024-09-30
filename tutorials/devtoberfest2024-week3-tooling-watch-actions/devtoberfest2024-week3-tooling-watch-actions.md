@@ -8,7 +8,7 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟣 Devtoberfest 2024 - Tooling, Watch Trigger Process  Video
+# 🟣 Devtoberfest 2024 - Tooling, Watch Actions in Build Process Automation Video
 <!-- description --> We are really proud of our videos and think they provide easy-to-consume, practical guidance on SAP software. Here's one on how to create and consume Actions in SAP Build Process Automation.  
  
 ## You will learn
