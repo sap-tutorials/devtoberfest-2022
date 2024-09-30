@@ -43,15 +43,15 @@ Attend live or watch a recording of [🟢 Understand the Clean Core Extensibilit
 
 ### Question 3 
 
-Attend live or watch a recording of [🟢 Building partner products on SAP BTP ABAP Environment](https://www.youtube.com/watch?v=q3mkqJE8wnk). 
+Attend live or watch a recording of [🟢 Building partner products on SAP BTP ABAP Environment](https://www.youtube.com/watch?v=Pxb8NSAS9Vc). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q3mkqJE8wnk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pxb8NSAS9Vc" frameborder="0" allowfullscreen></iframe>
 
 ### Question 4 
 
-Attend live or watch a recording of [🟢 Major Updates for Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=q3mkqJE8wnk). 
+Attend live or watch a recording of [🟢 Major Updates for Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=5V5nFkhlJAg). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q3mkqJE8wnk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5V5nFkhlJAg" frameborder="0" allowfullscreen></iframe>
 
 ### Question 5 
 

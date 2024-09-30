@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
- 
+  
 # 🟣 Devtoberfest 2024 - SAP Crossword
 <!-- description --> As has become tradition, we offer you a crossword with many SAP terms, many of them from SAP Build, and a few related to the current pop music scene. You will win lots of points if you can complete the whole thing.
  
@@ -20,8 +20,11 @@ parser: v2
 
 ## Intro
 ![Puzzle grid](puzzlegrip-withclues.png)
-
+<div>&nbsp;</div>
 We recommend printing out the grid and completing the puzzle, and then entering the individual answers in the step answers below.
+
+>**TIP:** If you need any help, please post in the discussion [Friends helping friends solve the SAP Crossword Puzzle](https://community.sap.com/t5/devtoberfest-discussions/friends-helping-friends-solve-the-sap-crossword-puzzle/m-p/13876916/highlight/true#M1240).
+
 
 <hr>
 

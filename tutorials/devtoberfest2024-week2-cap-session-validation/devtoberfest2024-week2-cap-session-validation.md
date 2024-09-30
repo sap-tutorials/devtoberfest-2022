@@ -39,7 +39,7 @@ Attend live or watch a recording of [🟢 Implement Observability in a Full-Stac
 
 Attend live or watch a recording of [🟢 The superpower of CAP CDS: calculated elements and annotation expressions](https://community.sap.com/t5/devtoberfest/the-superpower-of-cap-cds-calculated-elements-and-annotation-expressions/ec-p/13856112#M718). 
 
-<iframe width="560" height="315" src="https://community.sap.com/t5/devtoberfest/the-superpower-of-cap-cds-calculated-elements-and-annotation-expressions/ec-p/13856112#M718" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AG9835pEclc" frameborder="0" allowfullscreen></iframe> 
 
 ### Question 3 
 
@@ -51,5 +51,61 @@ Attend live or watch a recording of [🟢 CAP Tools - What's new](https://commun
 
 Attend live or watch a recording of [🟢 The Art & Science of CAP](https://community.sap.com/t5/devtoberfest/the-art-amp-science-of-cap/ec-p/13856120#M721). 
 
+"We recommend you review the [About CAP page](https://cap.cloud.sap/docs/about/) before answering these questions."
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XMchiFnDJ6E" frameborder="0" allowfullscreen></iframe>
+
+### Question 5 
+
+Attend live or watch a recording of [🟢 The Art & Science of CAP](https://community.sap.com/t5/devtoberfest/the-art-amp-science-of-cap/ec-p/13856120#M721). 
+
+"We recommend you review the [About CAP page](https://cap.cloud.sap/docs/about/) before answering these questions."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMchiFnDJ6E" frameborder="0" allowfullscreen></iframe>
+
+### Question 6 
+
+Attend live or watch a recording of [🟢 The Art & Science of CAP](https://community.sap.com/t5/devtoberfest/the-art-amp-science-of-cap/ec-p/13856120#M721). 
+
+"We recommend you review the [About CAP page](https://cap.cloud.sap/docs/about/) before answering these questions."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMchiFnDJ6E" frameborder="0" allowfullscreen></iframe>
+
+### Question 7 
+
+Attend live or watch a recording of [🟢 The Art & Science of CAP](https://community.sap.com/t5/devtoberfest/the-art-amp-science-of-cap/ec-p/13856120#M721). 
+
+"We recommend you review the [About CAP page](https://cap.cloud.sap/docs/about/) before answering these questions."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMchiFnDJ6E" frameborder="0" allowfullscreen></iframe>
+
+### Question 8 
+
+Attend live or watch a recording of [🟢 The superpower of CAP CDS: calculated elements and annotation expressions](https://community.sap.com/t5/devtoberfest/the-superpower-of-cap-cds-calculated-elements-and-annotation-expressions/ec-p/13856112#M718). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AG9835pEclc" frameborder="0" allowfullscreen></iframe> 
+
+### Question 9 
+
+Attend live or watch a recording of [🟢 The superpower of CAP CDS: calculated elements and annotation expressions](https://community.sap.com/t5/devtoberfest/the-superpower-of-cap-cds-calculated-elements-and-annotation-expressions/ec-p/13856112#M718). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AG9835pEclc" frameborder="0" allowfullscreen></iframe> 
+
+### Question 10 
+
+Attend live or watch a recording of [🟢 Implement Observability in a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://community.sap.com/t5/devtoberfest/implement-observability-in-a-full-stack-cap-application-following-sap-btp/ec-p/13856106#M717). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/II8-bcHcCAo" frameborder="0" allowfullscreen></iframe>
+
+### Question 11 
+
+Attend live or watch a recording of [🟢 Implement Observability in a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://community.sap.com/t5/devtoberfest/implement-observability-in-a-full-stack-cap-application-following-sap-btp/ec-p/13856106#M717). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/II8-bcHcCAo" frameborder="0" allowfullscreen></iframe>
+
+### Question 12 
+
+Attend live or watch a recording of [🟢 Implement Observability in a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://community.sap.com/t5/devtoberfest/implement-observability-in-a-full-stack-cap-application-following-sap-btp/ec-p/13856106#M717). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/II8-bcHcCAo" frameborder="0" allowfullscreen></iframe>
 

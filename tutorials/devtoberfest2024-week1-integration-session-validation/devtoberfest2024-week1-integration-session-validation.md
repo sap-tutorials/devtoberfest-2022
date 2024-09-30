@@ -26,25 +26,22 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 &nbsp;
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
-  
 
- <!--
 
 ### Question 1 
 Attend live or watch a recording of [🔴 Automate your SAP Cloud Integration governance with CPILint](https://youtube.com/watch?v=uJJKxuIeKeg).
 
-<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/uJJKxuIeKeg"" frameborder=""0"" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJJKxuIeKeg" frameborder="0" allowfullscreen></iframe>
 
 
 ### Question 2 
 Attend live or watch a recording of [🔴 Speed up your SAP Cloud Integration Development with CPI-Helper](https://youtube.com/watch?v=uSwSQbc_ULU).
 
-<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/uSwSQbc_ULU"" frameborder=""0"" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSwSQbc_ULU" frameborder="0" allowfullscreen></iframe>
 
 
 ### Question 3 
 Attend live or watch a recording of [🔴 FlashPipe - Your CI/CD Companion for SAP Integration Suite](https://youtube.com/watch?v=AGP1y1qwk9U).
 
-<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/AGP1y1qwk9U"" frameborder=""0"" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AGP1y1qwk9U" frameborder="0" allowfullscreen></iframe>
 
--->

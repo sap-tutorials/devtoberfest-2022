@@ -8,7 +8,7 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2024 - CAP, Week 4, Sept. 23
+# 🟢 Devtoberfest 2024 - CAP, Week 4, October 21
 <!-- description --> We hope you enjoyed the sessions on CAP during Week 4 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
  
 ## You will learn
@@ -28,7 +28,7 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
 &nbsp;
-
+<!-- 
 ### Question 1 
 
 Attend live or watch a recording of [🟢 How to build a CAP plugin with Java](https://community.sap.com/t5/devtoberfest/how-to-build-a-cap-plugin-with-java/ec-p/13856140#M726). 
@@ -42,3 +42,4 @@ Attend live or watch a recording of [🟢 Extending your On-Premise OData Entiti
 <iframe width="560" height="315" src="https://community.sap.com/t5/devtoberfest/extending-your-on-premise-odata-entities-in-cap/ec-p/13856144#M727" frameborder="0" allowfullscreen></iframe>
 
 
+ -->
