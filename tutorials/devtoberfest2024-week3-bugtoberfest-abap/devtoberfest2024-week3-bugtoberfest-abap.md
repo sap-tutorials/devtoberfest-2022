@@ -23,6 +23,12 @@ As a part of Devtoberfest 2024 Fun Friday events, we have a bug hunt written in 
 
 Remember to have fun and enjoy the bug hunt. Happy hunting!
 
+## Hints to count the bugs
+If the same bugs are repeated in a single line then, it's counted as 1. 
+Eg: Missing multiple braces () in the same statement is considered as 1
+
+Every unique bug in the same line will be counted separately. 
+
 This tutorial is part of the Devtoberfest 2024, a celebration of and for Developers. For more information, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest).
 
 ![Devtoberfest](promo-image-kasimir-square.png)
