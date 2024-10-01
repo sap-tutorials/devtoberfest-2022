@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
- 
+  
 # 🟣 Devtoberfest 2024 - Tooling, Watch Video on Process Automation
 <!-- description --> We are really happy to present the tutorial videos to you since they provide an easy-to-consume, practical guidance on SAP software. Here's one on the SAP Build Process Automation.  
  
