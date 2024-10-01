@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Watch the video on SBPA, [SAP Build process automation Overview, Part 1](https://www.youtube.com/watch?v=1vElTfSxGWM&t=37s).<br><iframe width="560" height="315" src="https://www.youtube.com/watch?v=1vElTfSxGWM&t=37s" frameborder="0" allowfullscreen></iframe>. 
+- Watch the video on SBPA, [SAP Build process automation Overview, Part 1](https://www.youtube.com/watch?v=1vElTfSxGWM).<br><iframe width="560" height="315" src="https://www.youtube.com/watch?v=1vElTfSxGWM" frameborder="0" allowfullscreen></iframe>. 
 
 
 ## Intro
