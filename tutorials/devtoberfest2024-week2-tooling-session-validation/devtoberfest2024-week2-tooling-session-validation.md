@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
-
+ 
 # 🟣 Devtoberfest 2024 - Tooling, Week 2, Oct. 1
 <!-- description --> We hope you enjoyed the sessions for Tooling Tuesdays during Week 2 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.  
  
@@ -28,7 +28,7 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
   
- <!--
+
 
 ### Question 1 
 Attend live or watch a recording of [🟣 SAP Build Apps 2049: Soon with UI5 and GenAI?](https://www.youtube.com/watch?v=a-ha-Ef171o). 
@@ -55,4 +55,3 @@ Attend live or watch a recording of [🟣 Putting It All Together: S/4HANA Retai
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JUSURObhSuk" frameborder="0" allowfullscreen></iframe>
 
--->
