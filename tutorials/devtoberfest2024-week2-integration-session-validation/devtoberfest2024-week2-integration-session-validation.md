@@ -27,26 +27,20 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
-  
- <!--
-
-### Question 1 
-Attend live or watch a recording of [🔴 CloudEvents for interoperable event systems](https://youtube.com/watch?v=FhDybT7cFAk).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FhDybT7cFAk" frameborder="0" allowfullscreen></iframe>
-
  
-### Question 2 
+### Question 1 
 Attend live or watch a recording of [🔴 Developing modern terminal-based tools for SAP Cloud Integration](https://youtube.com/watch?v=gEbZM7gcY54).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEbZM7gcY54" frameborder="0" allowfullscreen></iframe>
 
 
-
-### Question 3 
+### Question 2 
 Attend live or watch a recording of [🔴 Navigating EDA Complexity: SAP Integration Suite Advanced Event Mesh and AEM Event Portal Solutions](https://youtube.com/watch?v=kkI54Bivr58).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkI54Bivr58" frameborder="0" allowfullscreen></iframe>
 
 
--->
+### Question 3
+Attend live or watch a recording of [🔴 CloudEvents for interoperable event systems](https://youtube.com/watch?v=FhDybT7cFAk).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FhDybT7cFAk" frameborder="0" allowfullscreen></iframe>
