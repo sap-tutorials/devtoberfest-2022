@@ -26,4 +26,23 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
+&nbsp;
+
+### Question 1 
+
+Attend live or watch a recording of [🔵 Integrating Generative AI in SAP S/4HANA with ISLM](https://community.sap.com/t5/devtoberfest/integrating-generative-ai-in-sap-s-4hana-with-islm/ev-p/13861322). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SezO4_HTHfQ" frameborder="0" allowfullscreen></iframe>
+
+### Question 2 
+
+Attend live or watch a recording of [🔵 How to build a GenAI application using SAP BTP, Generative AI Hub and Amazon Bedrock](https://community.sap.com/t5/devtoberfest/how-to-build-a-genai-application-using-sap-btp-generative-ai-hub-and-amazon/ev-p/13865144). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M9zWmLjxMqI" frameborder="0" allowfullscreen></iframe>
+
+### Question 3 
+
+Attend live or watch a recording of [🔵 Using CAP and Generative AI Hub to call OData APIs that get real stuff done in S/4HANA](https://community.sap.com/t5/devtoberfest/using-cap-and-generative-ai-hub-to-call-odata-apis-that-get-real-stuff-done/ev-p/13862274). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSlH2xAdnq0" frameborder="0" allowfullscreen></iframe>
 
