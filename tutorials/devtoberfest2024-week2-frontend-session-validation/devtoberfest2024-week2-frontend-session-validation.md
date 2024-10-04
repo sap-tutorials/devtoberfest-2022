@@ -12,7 +12,7 @@ parser: v2
 <!-- description --> We hope you enjoyed the sessions on frontend/user interface topics during Week 2 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
  
 ## You will learn
-- A lot about technology - and yourself.
+- A lot about technology (and yourself).
 
 ## Prerequisites
 - Attend live or watch a recording of the [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in week 2 for frontend/user interface topics. Each question will include a link to the relevant session.
@@ -33,7 +33,11 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 Attend live or watch a recording of [🟠 Build Elegant Enterprise Apps for Android with SAP Fiori and SAP Build Code](https://community.sap.com/t5/devtoberfest/build-elegant-enterprise-apps-for-android-with-sap-fiori-and-sap-build-code/ev-p/13794370).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZypUWUrrik?si=urZ7q6Ei-WtSykmB" frameborder="0" allowfullscreen></iframe>
+
 ### Question 2 
 
 Attend live or watch a recording of [🟠 Craft Enterprise Apps for iOS, iPadOS, and visionOS with SAP Fiori and SAP Build Code](https://community.sap.com/t5/devtoberfest/craft-enterprise-apps-for-ios-ipados-and-visionos-with-sap-fiori-and-sap/ev-p/13795621).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iA6nczJx1O8?si=f--1mBxbL-7IY_-X" frameborder="0" allowfullscreen></iframe>
 
