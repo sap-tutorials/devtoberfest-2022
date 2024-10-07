@@ -38,25 +38,11 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 Attend live or watch a recording of [DEV100A | Developer keynote [deconstructed]: Keeping the promise](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723227572954001ZlyL). 
 
-<iframe width="560" height="315" src="https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723227572954001ZlyL" frameborder="0" allowfullscreen></iframe>
-
-
-
 Attend live or watch a recording of [DEV100B | Developer keynote [deconstructed]: Keeping the promise](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723584532995001g7Xm). 
-
-<iframe width="560" height="315" src="https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723584532995001g7Xm" frameborder="0" allowfullscreen></iframe>
-
-
 
 Attend live or watch a recording of [DEV100C | Developer keynote [deconstructed]: Keeping the promise](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723584818582001sYFr). 
 
-<iframe width="560" height="315" src="https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723584818582001sYFr" frameborder="0" allowfullscreen></iframe>
-
-
-
 Attend live or watch a recording of [DEV100D | Developer keynote [deconstructed]: Keeping the promise](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723584989965001WvJF).  
-
-<iframe width="560" height="315" src="https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1723584989965001WvJF" frameborder="0" allowfullscreen></iframe>
 
 
 
