@@ -3,8 +3,8 @@ auto_validation: true
 time: 30
 author_name: Ajay Soreng
 author_profile: https://github.com/ajaysoreng
-tags: [ tutorial>beginner, topic>teched2024 ]
-primary_tag: topic>teched2024
+tags: [ tutorial>beginner, topic>cloud ]
+primary_tag: topic>cloud
 parser: v2
 ---
   
