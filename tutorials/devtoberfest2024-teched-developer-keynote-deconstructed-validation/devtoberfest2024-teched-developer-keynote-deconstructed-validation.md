@@ -8,7 +8,7 @@ primary_tag: topic>cloud
 parser: v2
 ---
   
-# TechEd Developer Keynote - Deconstructed - October 8-9 2024
+# SAP TechEd Developer Keynote - Deconstructed - October 8-9 2024
 
 <!-- description --> We hope you enjoyed the Developer Keynote Deconstructed Sessions at Virtual TechED 2024. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
  
