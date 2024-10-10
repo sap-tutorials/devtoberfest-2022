@@ -54,7 +54,7 @@ cds add ___________
 3. What option/suffix id required to generate a set of .csv files with header lines and data based on your CDS model? In this example we are generation 50 rows of data.
 
 
-cds add data --_______ 50
+cds add data _______ 50
 
 [cap≽ire](https://cap.cloud.sap/docs/tools/cds-cli#cds-help) 
 
@@ -63,13 +63,13 @@ cds add data --_______ 50
 4. What suffix is needed to generate SQL DDL statements based on your CDS models?
 
 
-cds compile db/ --______
+cds compile db/ ______
 
 [cap≽ire](https://cap.cloud.sap/docs/tools/cds-cli#cds-help) 
 
 ### Question 5
 
-5. how do you run cap server and restart on file changes locally?
+5. how do you run cap server and restart on file changes locally? Answer is one character long. 
 
 
 cds _
