@@ -8,7 +8,7 @@ primary_tag: topic>cloud
 parser: v2
 ---
   
-# 🟢 Devtoberfest 2024 - Basic CDS CLI challenge
+# 🟢 Devtoberfest 2024 - Basic CDS CLI challenge 
 <!-- description --> All the 6 question below are for cap cds cli.
  
 ## You will learn

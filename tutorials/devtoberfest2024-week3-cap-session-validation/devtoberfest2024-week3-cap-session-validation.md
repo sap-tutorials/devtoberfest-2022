@@ -8,7 +8,7 @@ primary_tag: topic>cloud
 parser: v2
 ---
 
-# 🟢 Devtoberfest 2024 - CAP, Week 3, October 14 
+# 🟢 Devtoberfest 2024 - CAP, Week 3, October 14
 <!-- description --> We hope you enjoyed the sessions on CAP during Week 3 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
  
 ## You will learn
