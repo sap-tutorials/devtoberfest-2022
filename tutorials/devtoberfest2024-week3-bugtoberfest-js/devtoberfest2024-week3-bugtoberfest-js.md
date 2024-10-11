@@ -25,18 +25,19 @@ Each question will have 1 to 10 bugs and no bug should require running the code 
 
 For example, a misspelled variable may be referenced multiple times. Each misspelling should be counted as a separate bugs. The code below has three bugs, one for each misspelling regardless of the repeat in misspelling.
 
-```JavaScript
+<pre lang="JavaScript">
 const test = 1;
 
 console.log(taste);
 console.log(tent);
 console.log(tent);
-```
+</pre>
 
 However, if the bug is a syntax error, such as using the wrong separating character in an instantiation of an array, that should only be counted once unless it is done multiple times.
 
 For example, there are two bugs in the code below. Of the three arrays in the code below, only one uses the correct separating character. There might be an inclination to count each incorrect separating character but instead you should assume there is just one bug per array instead of three.
-```JavaScript
+
+<pre lang="JavaScript">
 const arrNoBug = ["", "", "", ""];
 const arrBug1 = ["". "". "". ""];
 const arrBug2 = [
@@ -45,14 +46,14 @@ const arrBug2 = [
   "";
   ""
 ];
-```
+</pre>
 
 **A few helpful tips for counting errors:**
 - if the error occurs on more than one line, there's a case to count it more than once. Ex. A variable is referenced with the same misspelling on two separate lines, that would be two bugs.
 - If the error has to do with blocks of code, think about the types of errors in the block. Ex. a while loop may have a bug in the way the loop is created (using `[]` for the code block instead of `{}`) and has an incorrect condition for the loop (`while (1+1)`). These would be two bugs, even though the `()` surrounding the executed code occurs on two separate lines.
 - Best practices should not be counted as bugs. If there is a better way to write the code, that is fine but should not be counted as a bug. For example, using a variable to store a return value in `if else` statements, then returning after, when no code outside of those `if else` statements needs to be run. The `if else` block could have the return statements within each of the `if else` blocks to reduce the need of the extra variable. This **would not be counted as a bug**.
 
-[To learn more about JavaScript or for help on the bug hunts, the Mozilla mdn web docs are a wonderful resource.](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[To learn more about JavaScript or for help on the bug hunts, the Mozilla web docs are a wonderful resource.](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Remember to have fun and enjoy the bug hunt. Happy hunting!
 
