@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 20
 author_name: Michelle Moudy
 author_profile: https://github.com/MMoudy49
 tags: [ tutorial>beginner, topic>cloud ]
@@ -26,11 +26,11 @@ Each question will have 1 to 10 bugs and no bug should require running the code 
 For example, a misspelled variable may be referenced multiple times. Each misspelling should be counted as a separate bugs. The code below has three bugs, one for each misspelling regardless of the repeat in misspelling.
 
 <pre lang="JavaScript">
-const test = 1;
+  const test = 1;
 
-console.log(taste);
-console.log(tent);
-console.log(tent);
+  console.log(taste);
+  console.log(tent);
+  console.log(tent);
 </pre>
 
 However, if the bug is a syntax error, such as using the wrong separating character in an instantiation of an array, that should only be counted once unless it is done multiple times.
@@ -38,14 +38,14 @@ However, if the bug is a syntax error, such as using the wrong separating charac
 For example, there are two bugs in the code below. Of the three arrays in the code below, only one uses the correct separating character. There might be an inclination to count each incorrect separating character but instead you should assume there is just one bug per array instead of three.
 
 <pre lang="JavaScript">
-const arrNoBug = ["", "", "", ""];
-const arrBug1 = ["". "". "". ""];
-const arrBug2 = [
-  "";
-  "";
-  "";
-  ""
-];
+  const arrNoBug = ["", "", "", ""];
+  const arrBug1 = ["". "". "". ""];
+  const arrBug2 = [
+    "";
+    "";
+    "";
+    ""
+  ];
 </pre>
 
 **A few helpful tips for counting errors:**
@@ -85,9 +85,11 @@ const bugFunc = (areThereBugs) -> {
 ```
 
 **Hints**:
+
   - [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
   - [if else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
   - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
 <!-- Bugs total 5:
       - arrow function syntax is wrong
       - Misspelled variable
@@ -107,6 +109,7 @@ for (let i = 0: i < 5: i++) {
 ```
 
 **Hints**:
+
   - [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
   - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 <!-- Bugs total 3:
@@ -123,16 +126,8 @@ The goal of the function in this bug hunt is to take in an object of an unidenti
 
 Please note that some of this data might not technically be correct, entomology wise. For example, there are some arachnids with less than 8 legs. This does not count as a bug. To simplify things, **the objects below are going to be used as the source of truth for arthropod classification**. They should be used to determine if the function `isArachnidInsectOrBug` will return the correct output.
 
-<table>
-<tr>
-<th>Arachnid</th>
-<th>Insect</th>
-<th>True Bug</th>
-</tr>
-<tr>
-<td>
-
-```JavaScript
+**Arachnid**
+```JSON
 {
     antennae: false,
     wingPairs: false,
@@ -141,10 +136,8 @@ Please note that some of this data might not technically be correct, entomology 
 }
 ```
 
-</td>
-<td>
-
-```JavaScript
+**Insect**
+```JSON
 {
     antennae: true,
     wingPairs: [0, 2],
@@ -160,10 +153,8 @@ Please note that some of this data might not technically be correct, entomology 
 }
 ```
 
-</td>
-<td>
-
-```JavaScript
+**True Bug**
+```JSON
 {
     antennae: true,
     wingPairs: [0, 2],
@@ -173,10 +164,6 @@ Please note that some of this data might not technically be correct, entomology 
 }
 ```
 
-</td>
-</tr>
-</table>
-
 **Hint**: _Keep these classification objects in mind when looking at the functions in the bug hunt._
 
 Below are examples of potential input to the function `IsArachnidInsectOrBug`. In order to determine what is what, they need to match the values in the classification objects above. Keep in mind that all true bugs are insects but not all insects are true bugs and arachnids are neither. No coding bugs will be about the data itself being wrong.
@@ -184,15 +171,9 @@ Below are examples of potential input to the function `IsArachnidInsectOrBug`. I
 **Assume only one value in the classification object parameters with arrays will be chosen for the input object**. For example, in Insect, `wingPairs` would equal either `0` or `2`, not `[0]` or `[0, 2]`. You can see this in input example 2.
 
 Example of what could be sent into the function and expected output:
-<table>
-<tr>
-<th>Arthropod Input Example 1</th>
-<th>Arthropod Input Example 2</th>
-</tr>
-<tr>
-<td>
 
-```JavaScript
+**Arthropod Input Example 1**
+```JSON
 {
     antennae: false,
     wingPairs : false,
@@ -201,11 +182,10 @@ Example of what could be sent into the function and expected output:
 
 }
 ```
+*Expected Output: "Arachnid"*
 
-</td>
-<td>
-
-```JavaScript
+**Arthropod Input Example 2**
+```JSON
 {
     antennae: false,
     wingPairs : false,
@@ -215,18 +195,7 @@ Example of what could be sent into the function and expected output:
 
 }
 ```
-
-</td>
-</tr>
-<tr>
-<td>
-Expected Output: "Arachnid"
-</td>
-<td>
-Expected Output: "Insect"
-</td>
-</tr>
-</table>
+*Expected Output: "Insect"*
 
 Remember, **best practices is not a justification for a bug**. If the code will run and output the expected result, it does not count as a bug. Also keep in mind that the point is to count the bugs, not how to fix the bugs. One fix might take care of several bugs but should not be counted as only one bug.
 
@@ -265,6 +234,7 @@ function isArachnid ({antennae, wingPairs, bodySegments, legs}) {
 ```
 
 **Hints**:
+
   - [if else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
   - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)
   - [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
