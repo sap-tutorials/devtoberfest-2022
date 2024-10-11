@@ -112,6 +112,7 @@ for (let i = 0: i < 5: i++) {
 
   - [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
   - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+  
 <!-- Bugs total 3:
       - For loop condition is using `:` instead of `;` between parameters.
       - In the console.log statement, there are missing backticks `\`` for the template literal,
@@ -240,6 +241,7 @@ function isArachnid ({antennae, wingPairs, bodySegments, legs}) {
   - [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
   - [Object Destructuring in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
   - [Switch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+
 <!-- Bugs 7?
       - Calling isInsectOrBug will throw an error if bug is an Arachnid as the arachnid object does not have the mouthType parameter.
       - In the switch statement in isInsectOrBug, the switch doesn't have a break statement and will always cause bugType to be "Bug".
