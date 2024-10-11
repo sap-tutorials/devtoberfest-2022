@@ -9,7 +9,7 @@ parser: v2
 ---
 
 # 🟡 Devtoberfest 2024 - Fun Friday Week 3 - Bugtoberfest JavaScript
-<!-- description --> This is the JavaScript Bug Hunt!
+<This is the JavaScript Bug Hunt!
 
 ## You will learn
 - How to have fun hunting for bugs in code.
@@ -67,7 +67,6 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<!-- (~3 bugs - max 20 lines of code) -->
 ### Question 1 (Easy)
 
 **Find the bugs in the following code:**
@@ -90,14 +89,6 @@ const bugFunc = (areThereBugs) -> {
   - [if else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
   - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
-<!-- Bugs total 5:
-      - arrow function syntax is wrong
-      - Misspelled variable
-      - Missing quote in first console.log.
-      - The quote in aren't causes issues in second console.log.
-      - There's an extra else that will never be called.  -->
-
-<!-- (~5 bugs - max 75 lines of code) -->
 ### Question 2 (Medium)
 
 **Find the bugs in the following code:**
@@ -112,13 +103,7 @@ for (let i = 0: i < 5: i++) {
 
   - [Loops and iterations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
   - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-  
-<!-- Bugs total 3:
-      - For loop condition is using `:` instead of `;` between parameters.
-      - In the console.log statement, there are missing backticks `\`` for the template literal,
-      - In the console.log statement, there is a missing `$` in front of the variable curly braces `{}`. -->
 
-<!-- (~10 bugs - max 100 lines of code) -->
 ### Question 3 (Hard)
 
 For the last JavaScript bug hunt, "bug" identification is the name of the game. What most people call bugs or insects are actually several different classifications of the phylum arthropods.
@@ -241,13 +226,3 @@ function isArachnid ({antennae, wingPairs, bodySegments, legs}) {
   - [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
   - [Object Destructuring in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
   - [Switch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
-
-<!-- Bugs 7?
-      - Calling isInsectOrBug will throw an error if bug is an Arachnid as the arachnid object does not have the mouthType parameter.
-      - In the switch statement in isInsectOrBug, the switch doesn't have a break statement and will always cause bugType to be "Bug".
-      - isInsectOrBug does not have a return statement.
-      - isArachnid is using the wrong boolean operators to test if bug is an arachnid. If any of those are correct, the function will return true. Expected behavior is all should be correct to return true.
-      - isArachnid does not return anything if bug isn't an arachnid. This could cause an error as the returned value will be null.
-      - isArachnidInsectOrBug is expecting isArachnid to return the string "Arachnid" but is instead getting a boolean. This will cause isArachnidInsectOrBug to return a boolean rather than one of the three expected strings.
-      - isArachnidInsectOrBug will only return if bug is an arachnid. It should return the results of isInsectOrBug if not an empty string.
- -->
