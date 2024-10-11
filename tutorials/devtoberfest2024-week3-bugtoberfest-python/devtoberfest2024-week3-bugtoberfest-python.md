@@ -1,9 +1,9 @@
 ---
 auto_validation: true
-time: 600
-author_name: Michelle Moudy
-author_profile: https://github.com/MMoudy49
-tags: [ tutorial>beginner, topic>cloud ]
+time: 1
+author_name: Vitaliy Rudnytskiy
+author_profile: https://github.com/Sygyzmundovych
+tags: [ tutorial>beginner, topic>cloud, topic>Python ]
 primary_tag: topic>cloud
 parser: v2
 ---
@@ -15,7 +15,7 @@ parser: v2
 - How to have fun hunting for bugs in code.
 
 ## Prerequisites
-- Basic to intermediary knowledge of Python.
+- Basic to intermediate knowledge of Python 3.8 or later.
 
 
 ## Intro
@@ -33,25 +33,55 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 
 &nbsp;
 
-<!-- ### Question 1 (Easy)
+### Question 1 (Easy)
 
-Find the bugs in the following code.
+Find the number of bugs in the following code using Python 3.8 or later.
 
+```python
+def hello_world();
+print "Hello, World!"
+
+hello_world()
 ```
-Easy Python Code coming soon
-```
+
 ### Question 2 (Medium)
 
-Find the bugs in the following code.
+Find the bugs in the following code using Python 3.8 or later.
 
-```
-Medium Python Code coming soon
+```python
+from typing import Final
+
+#Store integers 1, 2 and 3 in variables `ONE`, `TWO`, `THREE`
+ONE, TWO, THREE = range(1, 3)
+ZERO : Final = 0
+
+def check_number (x : int) -> str:
+    if x <= ONE:
+        result='smaller than or equal to 1'
+    elif x = TWO:
+        result='equal to 2'
+    then:
+        result='equal to or greater than 3'
+
+    returns result
+
+a=input("Input the integer number: ")
+
+print(f"{a} is {check_number(a)}")
 ```
 
 ### Question 3 (Hard)
 
-Find the bugs in the following code.
+Find the bugs in the following code using Python 3.8 or later.
 
+```python
+from dataclass import dataclass
+
+class PointInTime:
+    year : int
+    month: int
+    day  : int
+
+point = PointInTime(1974, 12, 23)
+print(point)  # Output should be: PointInTime(year=1974, month=12, day=23)
 ```
-Hard Python Code coming soon
-``` -->
