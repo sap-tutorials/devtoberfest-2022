@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 20
 author_name: DJ Adams
 author_profile: https://github.com/qmacro
 tags: [ tutorial>beginner, topic>cloud ]
@@ -54,16 +54,6 @@ $answer = $REPLY
 echo 'Thank you. You entered $answer.'
 ```
 
-<!--
-
-Bugs (3 total)
-
-- in the assignment of $REPLY to answer, answer should not be prefixed with $ (this is not Perl!)
-- in the assignment, no spaces are allowed either before or after the equals symbol (=)
-- inside single quotes, variables (`$answer` are not expanded (double quotes are needed here)
-
--->
-
 ### Question 2 (Medium)
 
 Find the bugs in the following code. Assume that the `pass` tool referenced in this script exists (it's the [standard Unix password manager](https://www.passwordstore.org/)).
@@ -95,18 +85,6 @@ EOF
 
 main "$@"
 ```
-
-<!--
-
-Bugs (5 total)
-
-- `pipefail` is an option that you need to set using the `-o` option of `set`
-- functions can be declared with the `function` keyword like this: `function main { ... }` or without the `function` keyword (as here), but brackets are needed before the code block, like this: `main () { ... }`
-- `dev/null` is relative, not absolute (i.e. there's no leading `/`) so this is not really what you want (to cleanly suppress STDOUT output it must be sent to `/dev/null`)
-- the newline at the end of `cf login` is not escaped (with a `\`) so this `cf` command execution is not valid
-- echo does not read from STDIN so we can't use a heredoc (<<); instead, cat could be used (or printf)
-
--->
 
 ### Question 3 (Hard)
 
@@ -141,13 +119,3 @@ touch "$color.txt"
 
 > Bonus info: [the open square bracket is an executable](https://qmacro.org/blog/posts/2020/08/21/the-open-square-bracket-is-an-executable/)
 
-<!--
-
-Bugs (4 total)
-
-- using `read` without `-r` will mangle backslashes (shellcheck Informational)
-- it's usually a very bad idea to not quote your variables, especially in a `[` construct
-- to use the regular expression operator `=~` you need the Bash-specific `[[ ... ]]` construct, and not the `[` command - see https://mywiki.wooledge.org/BashFAQ/031
-- not checking the success (or otherwise) of a `cd` command is dangerous, and could result in the script creating, changing or deleting files in a place you didn't expect!
-
--->

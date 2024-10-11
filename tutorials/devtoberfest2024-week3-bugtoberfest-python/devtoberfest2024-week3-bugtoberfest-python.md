@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 20
 author_name: Vitaliy Rudnytskiy
 author_profile: https://github.com/Sygyzmundovych
 tags: [ tutorial>beginner, topic>cloud, topic>Python ]
@@ -9,7 +9,7 @@ parser: v2
 ---
 
 # 🟡 Devtoberfest 2024 - Fun Friday Week 3 - Bugtoberfest Python
-<!-- description --> This is the Python Bug Hunt!
+This is the Python Bug Hunt!
 
 ## You will learn
 - How to have fun hunting for bugs in code.

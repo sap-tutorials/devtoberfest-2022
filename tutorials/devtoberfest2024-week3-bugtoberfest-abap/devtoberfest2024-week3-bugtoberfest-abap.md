@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 20
 author_name: Sheena M K
 author_profile: https://github.com/sheenamk
 tags: [ tutorial>beginner, topic>cloud ]
@@ -9,7 +9,7 @@ parser: v2
 ---
 
 # 🟡 Devtoberfest 2024 - Fun Friday Week 3 - Bugtoberfest ABAP
-<!-- description --> This is the ABAP Bug Hunt!
+This is the ABAP Bug Hunt!
 
 ## You will learn
 - How to have fun hunting for bugs in code.

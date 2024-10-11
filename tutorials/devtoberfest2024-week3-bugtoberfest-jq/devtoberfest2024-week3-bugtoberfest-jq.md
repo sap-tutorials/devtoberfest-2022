@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 1
+time: 20
 author_name: DJ Adams
 author_profile: https://github.com/qmacro
 tags: [ tutorial>beginner, topic>cloud ]
@@ -9,7 +9,7 @@ parser: v2
 ---
 
 # 🟡 Devtoberfest 2024 - Fun Friday Week 3 - Bugtoberfest jq
-<!-- description --> This is the jq Bug Hunt!
+This is the jq Bug Hunt!
 
 ## You will learn
 - How to have fun hunting for bugs in code.
