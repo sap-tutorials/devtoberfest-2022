@@ -118,15 +118,15 @@ for (let i = 0: i < 5: i++) {
 
 For the last JavaScript bug hunt, "bug" identification is the name of the game. What most people call bugs or insects are actually several different classifications of the phylum arthropods.
 
-The goal of the function in this bug hunt is to take in an object of an unidentified "bug" and determine if it is a part of the class Insecta or Arachnids, and if Insecta, further identify if it is a true bug in the order Hemiptera. To make things simple, **the function should return one of the three values, "Arachnid", "Insect", or "Bug".**
+The goal of the function in this bug hunt is to take in an object of an unidentified "bug" and determine if it is a part of the class Insecta or Arachnids, and if Insecta, further identify if it is a true bug in the order Hemiptera. To make things simple, **the function should return one of the three values, "Arachnid", "Insect", or "True Bug".**
 
 Please note that some of this data might not technically be correct, entomology wise. For example, there are some arachnids with less than 8 legs. This does not count as a bug. To simplify things, **the objects below are going to be used as the source of truth for arthropod classification**. They should be used to determine if the function `isArachnidInsectOrBug` will return the correct output.
 
 <table>
 <tr>
-<th>Arachnids</th>
-<th>Insecta</th>
-<th>Hemiptera (True Bug)</th>
+<th>Arachnid</th>
+<th>Insect</th>
+<th>True Bug</th>
 </tr>
 <tr>
 <td>
@@ -180,7 +180,7 @@ Please note that some of this data might not technically be correct, entomology 
 
 Below are examples of potential input to the function `IsArachnidInsectOrBug`. In order to determine what is what, they need to match the values in the classification objects above. Keep in mind that all true bugs are insects but not all insects are true bugs and arachnids are neither. No coding bugs will be about the data itself being wrong.
 
-**Assume only one value in the classification object parameters with arrays will be chosen for the input object**. For example, in Insecta, `wingPairs` would equal either `0` or `2`, not `[0]` or `[0, 2]`. You can see this in input example 2.
+**Assume only one value in the classification object parameters with arrays will be chosen for the input object**. For example, in Insect, `wingPairs` would equal either `0` or `2`, not `[0]` or `[0, 2]`. You can see this in input example 2.
 
 Example of what could be sent into the function and expected output:
 <table>
@@ -251,7 +251,7 @@ function isInsectOrBug(arthropod) {
             bugType = "Insect";
         }
         case "piercing/sucking rigid": {
-            bugType = "Bug";
+            bugType = "True Bug";
         }
     }
 }
@@ -263,7 +263,7 @@ function isArachnid ({antennae, wingPairs, bodySegments, legs}) {
 }
 ```
 
-**Hints**: 
+**Hints**:
   - [if else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
   - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)
   - [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
