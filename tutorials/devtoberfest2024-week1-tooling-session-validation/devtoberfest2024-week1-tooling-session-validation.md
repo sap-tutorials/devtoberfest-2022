@@ -35,10 +35,21 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
   
-```JavaScript
+    ```JavaScript
+    var test = 0;
+    ```
+
+```Python
 var test = 0;
 ```
 
+```Test
+var test = 0;
+```
+
+```
+var test = 0;
+```
 
 ### Question 1 
 Attend live or watch a recording of [🟣 Transform Data with Scripting in SAP Build Process Automation](https://www.youtube.com/watch?v=Su2QvsCqjt4).
