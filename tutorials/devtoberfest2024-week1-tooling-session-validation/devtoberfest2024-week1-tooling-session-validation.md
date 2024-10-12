@@ -15,16 +15,10 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 
-```JavaScript
-var test = 0;
-```
 
 ## Prerequisites
 - Attend live or watch a recording of the [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in Week 1 for Tooling Tuesdays. Each question will include a link to the relevant session. 
 
-```JavaScript
-var test = 0;
-```
 
 ## Intro
 This tutorial is part of the Devtoberfest 2024, a celebration of and for Developers. For more information and to join the fun, see the [Devtoberfest Group](https://groups.community.sap.com/t5/devtoberfest/gh-p/Devtoberfest) and join the group.
@@ -35,30 +29,13 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
   
-    ```JavaScript
-    var test = 0;
-    ```
 
-```Python
-var test = 0;
-```
-
-```Test
-var test = 0;
-```
-
-```
-var test = 0;
-```
 
 ### Question 1 
 Attend live or watch a recording of [🟣 Transform Data with Scripting in SAP Build Process Automation](https://www.youtube.com/watch?v=Su2QvsCqjt4).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Su2QvsCqjt4" frameborder="0" allowfullscreen></iframe>
 
-```JavaScript
-var test = 0;
-```
 
 ### Question 2 
 Attend live or watch a recording of [🟣 Develop a Full-Stack CAP Application with SAP Build Code](https://www.youtube.com/watch?v=4o2Swj89zxU).
