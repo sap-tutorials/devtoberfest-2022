@@ -9,7 +9,7 @@ parser: v2
 ---
 
 # 🟡 Devtoberfest 2024 - Fun Friday Week 3 - Bugtoberfest JavaScript
-<This is the JavaScript Bug Hunt!
+This is the JavaScript Bug Hunt!
 
 ## You will learn
 - How to have fun hunting for bugs in code.
@@ -47,6 +47,17 @@ For example, there are two bugs in the code below. Of the three arrays in the co
     ""
   ];
 </pre>
+
+```JavaScript
+const arrNoBug = ["", "", "", ""];
+const arrBug1 = ["". "". "". ""];
+const arrBug2 = [
+    "";
+    "";
+    "";
+    ""
+];
+```
 
 **A few helpful tips for counting errors:**
 - if the error occurs on more than one line, there's a case to count it more than once. Ex. A variable is referenced with the same misspelling on two separate lines, that would be two bugs.
