@@ -51,4 +51,4 @@ Attend live or watch a recording of [🟢 Developing and Transforming your ABAP 
 
 Attend live or watch a recording of [🟢 How to Extend the different SAP S/4HANA Editions Effectively and Clean Core Compliant](https://www.youtube.com/watch?v=BM09AExkT_g). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BM09AExkT_g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BM09AExkT_g" frameborder="0" allowfullscreen></iframe> 
