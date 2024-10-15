@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
- 
+  
 # 🟣 Devtoberfest 2024 - Tooling, Watch Trigger Process Video
 <!-- description --> We are really proud of our videos and think they provide easy-to-consume, practical guidance on SAP software. Here's one on how to trigger a process in SAP Build Process Automation from SAP Build Apps.  
  
