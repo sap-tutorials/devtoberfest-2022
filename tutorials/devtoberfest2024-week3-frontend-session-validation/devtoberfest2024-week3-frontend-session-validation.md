@@ -37,3 +37,7 @@ Attend live or watch a recording of [🟠 Get ready for OpenUI5 2.x](https://com
 
 Attend live or watch a recording of [🟠 What's New in UI5 Web Components 2.0 and UI5 Web Components for React 2.0](https://community.sap.com/t5/devtoberfest/what-s-new-in-ui5-web-components-2-0-and-ui5-web-components-for-react-2-0/ev-p/13812201).
 
+### Question 3
+
+Attend live or watch a recording of [🟠 Micro Frontends - What they are and how to implement them with Luigi](https://community.sap.com/t5/devtoberfest/micro-frontends-what-they-are-and-how-to-implement-them-with-luigi/ec-p/13889711#M904).
+
