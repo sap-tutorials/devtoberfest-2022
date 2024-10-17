@@ -14,6 +14,8 @@ parser: v2
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
 
+
+
 ## Prerequisites
 - Attend live or watch a recording of the [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in Week 1 for Tooling Tuesdays. Each question will include a link to the relevant session. 
 
@@ -27,7 +29,6 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
   
-
 
 
 ### Question 1 

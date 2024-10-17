@@ -27,8 +27,6 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
-  
- <!--
 
 ### Question 1 
 Attend live or watch a recording of [🔴 Discover SAP Event Sources for Advanced Event Mesh](https://youtube.com/watch?v=NujHueCBDOw).
@@ -37,7 +35,7 @@ Attend live or watch a recording of [🔴 Discover SAP Event Sources for Advance
 
  
 ### Question 2 
-Attend live or watch a recording of [🔴 Use SAP Event Broker for SAP cloud applications to consume business events in a CAP application](https://youtube.com/watch?v=m_YoqkECnGI).
+Attend live or watch a recording of [🔴 Use SAP Cloud Application Event Hub to consume business events in a CAP application](https://youtube.com/watch?v=m_YoqkECnGI).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_YoqkECnGI" frameborder="0" allowfullscreen></iframe>
 
@@ -51,5 +49,3 @@ Attend live or watch a recording of [🔴 Filtering of RAP business events in SA
 Attend live or watch a recording of [🔴 Harnessing S/4HANA Events in SAP Build](https://www.youtube.com/watch?v=xH5X6BpDOyk).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xH5X6BpDOyk" frameborder="0" allowfullscreen></iframe>
-
--->

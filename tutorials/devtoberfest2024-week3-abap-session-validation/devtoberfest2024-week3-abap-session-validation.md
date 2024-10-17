@@ -15,7 +15,7 @@ parser: v2
 - A lot about technology – and yourself – during Devtoberfest
 
 ## Prerequisites
-- Attend live or watch a recording of the Devtoberfest session [Devtoberfest sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in Week 3 for ABAP. Each question will include a link to the relevant session. 
+- Attend live or watch a recording of the Devtoberfest session [Devtoberfest Sessions](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events) in Week 3 for ABAP. Each question will include a link to the relevant session. 
 
 
 ## Intro
@@ -25,17 +25,15 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 &nbsp;
 
-For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
+For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest Blog](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
 &nbsp;
 
-<!--
-
 ### Question 1 
 
-Attend live or watch a recording of [🟢 What Software Developers Should Know About Key User Extensibility](https://www.youtube.com/watch?v=HQPXI1Ba-Gk). 
+Attend live or watch a recording of [🟢 What Software Developers Should Know About Key User Extensibility](https://www.youtube.com/watch?v=zxYojlSoXN0). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQPXI1Ba-Gk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zxYojlSoXN0" frameborder="0" allowfullscreen></iframe>
 
 ### Question 2 
 
@@ -53,6 +51,4 @@ Attend live or watch a recording of [🟢 Developing and Transforming your ABAP 
 
 Attend live or watch a recording of [🟢 How to Extend the different SAP S/4HANA Editions Effectively and Clean Core Compliant](https://www.youtube.com/watch?v=BM09AExkT_g). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BM09AExkT_g" frameborder="0" allowfullscreen></iframe>
-
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BM09AExkT_g" frameborder="0" allowfullscreen></iframe> 

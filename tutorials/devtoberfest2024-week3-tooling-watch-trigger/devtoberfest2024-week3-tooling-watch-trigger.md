@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, topic>cloud ]
 primary_tag: topic>cloud
 parser: v2
 ---
- 
+  
 # 🟣 Devtoberfest 2024 - Tooling, Watch Trigger Process Video
 <!-- description --> We are really proud of our videos and think they provide easy-to-consume, practical guidance on SAP software. Here's one on how to trigger a process in SAP Build Process Automation from SAP Build Apps.  
  
@@ -31,14 +31,14 @@ For specifics on the Devtoberfest contest and the grand prize, see this [Devtobe
 ![alt text](2023-12-24_18-40-33.png)
 
 - [Trigger Process from SAP Build Apps, part 1](https://youtu.be/8RVo3-h2n-I)<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/8RVo3-h2n-I" frameborder="0" allowfullscreen></iframe> 
-- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/02dPZd1Btuw).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/02dPZd1Btuw" frameborder="0" allowfullscreen></iframe>. 
-- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/PdlusgEMhiU).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/PdlusgEMhiU" frameborder="0" allowfullscreen></iframe>. 
-- [Trigger Process from SAP Build Apps, part 1](https://youtu.be/JiVcTN0JIBU).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/JiVcTN0JIBU" frameborder="0" allowfullscreen></iframe>. 
+- [Trigger Process from SAP Build Apps, part 2](https://youtu.be/02dPZd1Btuw).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/02dPZd1Btuw" frameborder="0" allowfullscreen></iframe>. 
+- [Trigger Process from SAP Build Apps, part 3](https://youtu.be/PdlusgEMhiU).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/PdlusgEMhiU" frameborder="0" allowfullscreen></iframe>. 
+- [Trigger Process from SAP Build Apps, part 4](https://youtu.be/JiVcTN0JIBU).<div>&nbsp;</div><iframe width="560" height="315" src="https://www.youtube.com/embed/JiVcTN0JIBU" frameborder="0" allowfullscreen></iframe>. 
 
 
 ### Question 1 (video #1) 
  
-
+ 
 
 ### Question 2 (video #2)
 
