@@ -26,3 +26,24 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
+&nbsp;
+
+### Question 1 
+
+Attend live or watch a recording of [🔵 How to get started with LLMs?](https://community.sap.com/t5/devtoberfest/how-to-get-started-with-llms/ec-p/13865245#M738). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0DKr3ms2bg0" frameborder="0" allowfullscreen></iframe>
+
+### Question 2 
+
+Attend live or watch a recording of [🔵 Embed the latest from SAP HANA’s AI functions into your SAP BTP Application](https://community.sap.com/t5/devtoberfest/embed-the-latest-from-sap-hana-s-ai-functions-into-your-sap-btp-application/ev-p/13873455). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J_dTMTHFC9M?si=c1SYOMIzoEiFJ_3w" frameborder="0" allowfullscreen></iframe>
+
+### Question 3 
+
+Attend live or watch a recording of [🔵 SAP HANA Cloud Multi-Model](https://community.sap.com/t5/devtoberfest/sap-hana-cloud-multi-model/ev-p/13862814). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxlHVQa5l5Q?si=nWisZqYPy_Ea8NiN" frameborder="0" allowfullscreen></iframe>
+
+
