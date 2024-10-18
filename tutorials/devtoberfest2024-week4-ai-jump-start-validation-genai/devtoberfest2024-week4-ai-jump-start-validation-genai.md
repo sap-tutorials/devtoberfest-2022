@@ -26,4 +26,15 @@ This tutorial is part of the Devtoberfest 2024, a celebration of and for Develop
 
 For specifics on the Devtoberfest contest and the grand prize, see this [Devtoberfest 2024 Contest](https://community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2024-contest/ba-p/13781593)
 
+&nbsp;
 
+### Question 1 
+Check out the [TechEd jump-start session - AI180](https://www.sap.com/events/teched/virtual/flow/sap/te24/catalog/page/catalog/session/1722557682293001fTqe) and the code on [GitHub repo for AI180](https://github.com/SAP-samples/teched2024-AI180).
+
+![AI180](AI180.png)
+
+&nbsp;
+
+### Question 2
+
+&nbsp;
