@@ -38,9 +38,9 @@ Attend live or watch a recording of [🟢 Overview of Reuse Services in ABAP Clo
 
 ### Question 2 
 
-Attend live or watch a recording of [🟢 ABAP Development Tools - News and  Roadmap                                              ](https://www.youtube.com/watch?v=HQPXI1Ba-Gk). 
+Attend live or watch a recording of [🟢 ABAP Development Tools - News and  Roadmap                                              ](https://www.youtube.com/watch?v=YOIsyR5C2Mk). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQPXI1Ba-Gk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOIsyR5C2Mk" frameborder="0" allowfullscreen></iframe>
 
 ### Question 3 
 
@@ -56,6 +56,6 @@ Attend live or watch a recording of [🟢 SAP Business Client & SAP GUI - The Jo
 
 ### Question 5 
 
-Attend live or watch a recording of [🟢 Revolutionize SAP BTP Extensions with AWS SDK for ABAP to implement a Clean Core Strategy](https://www.youtube.com/watch?v=Ihxl85uXrjc). 
+Attend live or watch a recording of [🟢 Revolutionize SAP BTP Extensions with AWS SDK for ABAP to implement a Clean Core Strategy](https://www.youtube.com/watch?v=SNgrpU1Srf8). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ihxl85uXrjc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNgrpU1Srf8" frameborder="0" allowfullscreen></iframe>
