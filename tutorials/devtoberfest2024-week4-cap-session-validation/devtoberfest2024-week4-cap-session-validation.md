@@ -43,3 +43,9 @@ Attend live or watch a recording of [🟢 Extending your On-Premise OData Entiti
 Attend live or watch a recording of [🟢 How to build a CAP plugin with Java](https://community.sap.com/t5/devtoberfest/how-to-build-a-cap-plugin-with-java/ec-p/13856140#M726).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9-XZns4iUC0" frameborder="0" allowfullscreen></iframe>
+
+### Question 3
+
+Attend live or watch a recording of [🟢 How to build a CAP plugin with Java](https://community.sap.com/t5/devtoberfest/how-to-build-a-cap-plugin-with-java/ec-p/13856140#M726).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9-XZns4iUC0" frameborder="0" allowfullscreen></iframe>
