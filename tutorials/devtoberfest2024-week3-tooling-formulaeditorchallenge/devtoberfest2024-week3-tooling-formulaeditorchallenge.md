@@ -8,8 +8,8 @@ primary_tag: topic>cloud
 parser: v2
 ---
   
-# 🟣 Devtoberfest 2024 - Formula Editor Challenge
-<!-- description --> For all the 5 questions below, you will find a built-in function that works in the SAP Build Apps formula editor. 
+# 🟣 Devtoberfest 2024 - SAP Build Apps Formula Editor Challenge
+<!-- description --> For all the 5 questions below, you will write a formula that works in the SAP Build Apps formula editor.  Please see this help link on how to invoke the Formula Editor in Build Apps https://help.sap.com/docs/build-apps/service-guide/formula-functions and some sample functions provided. In the Build Apps tool, you will be able to see all the Formula functions available.
  
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
