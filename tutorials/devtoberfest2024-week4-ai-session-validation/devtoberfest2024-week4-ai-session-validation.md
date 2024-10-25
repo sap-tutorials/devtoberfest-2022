@@ -9,7 +9,7 @@ parser: v2
 ---
 
 # 🔵 Devtoberfest 2024 - MAD (ML, AI & Data), Week 4 - Oct. 24
-<!-- description --> We hope you enjoyed the AI sessions for MAD Thursdays during week 4 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize.
+<!-- description --> We hope you enjoyed the AI sessions for MAD Thursdays during week 4 of Devtoberfest. Show that you were listening, and earn extra points toward the Devtoberfest grand prize. 
 
 ## You will learn
 - A lot about technology – and yourself – during Devtoberfest
