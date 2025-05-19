@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "devtoberfest-2022"
+SPDX-PackageSupplier = "Wroblewski, Daniel (daniel.wroblewski@sap.com)"
+SPDX-PackageDownloadLocation = "https://github.com/sap-tutorials/devtoberfest-2022"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2022 SAP SE or an SAP affiliate company and https://github.com/sap-tutorials/devtoberfest-2022 contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
